@@ -1,0 +1,6 @@
+*.jpg
+*.mp4
+*.txt
+.mp4
+/node_modules
+ignorar.txt
