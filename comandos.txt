@@ -1,0 +1,3380 @@
+    1  git clone https://gitlab.vision4.com.ar/DEXMA/edp-dashboards-front.git
+    2  git clone https://gitlab.vision4.com.ar/DEXMA/edp-dashboards-front.git
+    3  git clone https://gitlab.vision4.com.ar/DEXMA/edp-dashboards-front.git
+    4  git branch
+    5  node --version
+    6  npm start
+    7  git branch
+    8  git add .
+    9  git commit -m "Fix bugs"
+   10  git push origin FP-18-RESET
+   11  npm start
+   12  git branch
+   13  git checkout -b RLP-15983\n\n
+   14  git add .
+   15  git commit -m "Add Google Analitics"
+   16  git add .
+   17  git commit -m "Add Google Analitics"
+   18  git add .
+   19  git commit -m "Add Google Analitics"
+   20  git add .
+   21  git commit -m "Update Version"
+   22  git branch
+   23  ls
+   24  cd apps-p
+   25  cd apps-pups
+   26  ls 
+   27  cd partner-auth
+   28  ls
+   29  yarn start
+   30  ls
+   31  yarn add @types/google.analytics @buffet/scope-service -D\n
+   32  yarn start
+   33  ls
+   34  git pull origin develop
+   35  git branch
+   36  cd ..
+   37  ls
+   38  git clone git@github.com:lemiliomoreno/edp-dashboards-front.git
+   39  ls
+   40  cd edp-dashboards-front
+   41  ls
+   42  code .
+   43  code .
+   44  git branch
+   45  git pull origin develop
+   46  git pull origin develop
+   47  npm start
+   48  npm start
+   49  npm start
+   50  LS
+   51  cd docum
+   52  ls
+   53  cd Documents
+   54  ls
+   55  cd Github
+   56  ls
+   57  npx create-react-app testeo
+   58  ls
+   59  cd test
+   60  cd testeo
+   61  code .
+   62  cd ..
+   63  git clone https://gitlab.vision4.com.ar/DEXMA/edp-dashboards-back.git
+   64  ls
+   65  cd edp-dashboards-back
+   66  ls
+   67  code .
+   68  ls
+   69  cd edp_dashboards
+   70  code .
+   71  cd ..
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd ..
+   76  ls
+   77  cd Dex
+   78  cd Dexma
+   79  ls
+   80  cd ..
+   81  ls
+   82  cd Branches
+   83  ls
+   84  cd edp-dashboards-front
+   85  code .
+   86  git branch
+   87  git checkout master
+   88  git pull origin master
+   89  git checkout -b RLP-15981\n\n
+   90  git branch
+   91  yarn start
+   92  ls
+   93  cd apps-pups
+   94  ls
+   95  cd partner-auth/
+   96  ls
+   97  yarn start
+   98  pwd
+   99  git branch
+  100  git add .
+  101  git commit -m "Add error banner , fix desing , add function to customhook"
+  102  git add .
+  103  git commit -m "Add error banner , fix desing , add function to customhook"
+  104  git add .
+  105  git commit -m "Add error banner , fix desing , add function to customhook"
+  106  git add .
+  107  git commit -m "Add error banner , fix desing , add function to customhook"
+  108  git add .
+  109  git commit -m "Add error banner , fix desing , add function to customhook"
+  110  git add .
+  111  git add .
+  112  git commit -m "Add error banner , fix desing , add function to customhook"
+  113  git commit -m "Add error banner , fix desing , add function to customhook"
+  114  git commit -m "Add error banner , fix desing , add function to customhook"
+  115  git add .
+  116  git commit -m "Add error banner , fix desing , add function to customhook"
+  117  git add .
+  118  git commit -m "Add error banner , fix desing , add function to customhook"
+  119  --fix
+  120  yarn start
+  121  ls
+  122  cd apps-pups
+  123  cd partner-auth
+  124  yarn start
+  125  git branch
+  126  git add .
+  127  git commit -m "Delete comments , add readme"
+  128  git push origin develop
+  129  npm start
+  130  yarn add superagent\n
+  131  yarn start
+  132  git branch
+  133  git stash
+  134  git pull origin develop
+  135  git branch
+  136  npm start
+  137  git branch
+  138  git pull origin develop
+  139   git add .
+  140  git commit -m "Add .env file"
+  141  git push origin develop
+  142  npm start
+  143  npm start
+  144  git branch
+  145  git add .
+  146  git commit -m "Add error banner , fix desing , add function to customhook"
+  147  git add .
+  148  git commit -m "Add error banner , fix desing , add function to customhook"
+  149  git add .
+  150  git commit -m "Add error banner , fix desing , add function to customhook"
+  151  git commit -m "Add error banner , fix desing , add function to customhook" --fix
+  152  yarn run lint -- --fix.
+  153  git add .
+  154  git commit -m "Add error banner , fix desing , add function to customhook" --fix
+  155  git commit -m "Add error banner , fix desing , add function to customhook"
+  156  git add .
+  157  git commit -m "Add error banner , fix desing , add function to customhook"
+  158  git add .
+  159  git commit -m "Add error banner , fix desing , add function to customhook"
+  160  git add .
+  161  git commit -m "Add error banner , fix desing , add function to customhook"
+  162  git add .
+  163  git commit -m "Add error banner , fix desing , add function to customhook"
+  164  git add .
+  165  git commit -m "Add error banner , fix desing , add function to customhook"
+  166  git add .
+  167  git commit -m "Add error banner , fix desing , add function to customhook"
+  168  ls
+  169  npm start
+  170  git commit -m "Remove empty component"
+  171  git add .
+  172  git commit -m "Remove empty component"
+  173  git branch
+  174  git push origin FP-27-widget-tags
+  175  git remote -v
+  176  git branch
+  177  git checkout -b FP-27-widget-tags
+  178  git pull origin FP-27-widget-tags
+  179  git pull origin FP-27-widget-tags
+  180  git branch
+  181  git remote
+  182  git pull origin FP-27-widget-tags
+  183  npm install
+  184  npm start
+  185  git branch
+  186  git pull
+  187  git pull origin FP-27-widget-tags
+  188  npm start
+  189  git branch
+  190  git checkout develop
+  191  git merge FP-27-widget-tags
+  192  git add .
+  193  git commit -m "Merge develop"
+  194  git push origin develop
+  195  git pull origin develop
+  196  npm start
+  197  git branch
+  198  git add .
+  199  git commit -m "Merge"
+  200  git branch
+  201  git checkout FP-27-widget-tags
+  202  git merge develop
+  203  cd ..
+  204  ls
+  205  git clone --branch develop --single-branch https://gitlab.vision4.com.ar/DEXMA/caixa-dashboards-front.git
+  206  mkdir testing
+  207  cd testin3
+  208  mkdir testin1
+  209  cd testin1
+  210  git clone --branch develop --single-branch https://gitlab.vision4.com.ar/DEXMA/caixa-dashboards-front.git
+  211  ls
+  212  cd caixa-dashboards-front
+  213  ls
+  214  npm install
+  215  npm start
+  216  ls
+  217  cd apps-pups
+  218  cd partner-auth
+  219  yarn start
+  220  git branch
+  221  git pull origin master
+  222  git checkout -b RLP-15976\n\n
+  223  git checkout -b RLP-10307\n\n
+  224  git add .
+  225  git commit -m "alphabetize Feature Details Key"
+  226  git add .
+  227  git commit -m "alphabetize Feature Details Key"
+  228  cd ..
+  229  cd user-accounts
+  230  ls
+  231  git add .
+  232  git commit -m "alphabetize Feature Details Key"
+  233  git add .
+  234  git commit -m "Update version"
+  235  git add .
+  236  git commit -m "Add error banner , fix desing , add function to customhook"
+  237  git add .
+  238  git commit -m "update version"
+  239  cd apps-pups
+  240  ls
+  241  cd partner-auth
+  242  yarn add sanitize-html
+  243  git branch 
+  244  yarn add sanitize-html
+  245  yarn add sanitize-html
+  246  yarn add sanitize-html
+  247  yarn add --save-dev @types/sanitize-html
+  248  yarn add @types/sanitize-html
+  249  git branch
+  250  git add .
+  251  git commit -m "Add sanitize-html"
+  252  git add .
+  253  git commit -m "Add sanitize-html"
+  254  git branc
+  255  cd ..
+  256  ls
+  257  git checkout master
+  258  cd ..
+  259  ls
+  260  cd apps-pups
+  261  ls
+  262  cd user-accounts
+  263  l
+  264  l
+  265  ls
+  266  yarn
+  267  yarn start
+  268  yarn start
+  269  yar start
+  270  yarn start
+  271  yarn start
+  272  yarn start
+  273  yarn start
+  274  cd ..
+  275  ls
+  276  cd profile
+  277  ls
+  278  yarn 
+  279  yarn start
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd carlos.damianencora.com
+  284  cd Documents
+  285  cd Github
+  286  ls
+  287  ls
+  288  git clone git@github.com\:caarlosdamian/TypeScript-Project.git
+  289  git clone git@github.com\:caarlosdamian/TypeScript-Project.git
+  290  ls
+  291  cd TypeScript-Project
+  292  ls
+  293  code .
+  294  cd ..
+  295  code .
+  296  git branch
+  297  git checkout develop
+  298  npm start
+  299  git add .
+  300  git commit -m "Add margin top"
+  301  git push origin develop
+  302  git add .
+  303  git push origin develop
+  304  git commit -m "Add margin top"
+  305  git push origin develop
+  306  git add .
+  307  git commit -m "Add margin top"
+  308  git push origin develop
+  309  npm start
+  310  npm install
+  311  git checkout -b forms
+  312  git pull origin forms
+  313  git checkout -b forms-dynamic
+  314  git add .
+  315  git commit -m "Formularios dinamicos"
+  316  git push origin forms-dynamic
+  317  npm start
+  318  ls
+  319  cd Documents
+  320  ls
+  321  cd Github
+  322  ls
+  323  mkdir prueba
+  324  cd prueba
+  325  ls
+  326  npx create-react-app .
+  327  git branch
+  328  git add .
+  329  git commit -m "Add Api calls"
+  330  git push origin develop
+  331  git add .
+  332  git commit -m "Add Api calls"
+  333  git push origin develop
+  334  git add .
+  335  git commit -m "Add conditions, fix desing"
+  336  git add .
+  337  git commit -m "Pre-Prod fixes"
+  338  git push origin develop
+  339  git branch
+  340  git checkout FP-27-widget-tags
+  341  git pull origin FP-27-widget-tags
+  342  npm start
+  343  git checkout develop
+  344  git stash
+  345  git checkout develop
+  346  git pull origin develop
+  347  npm start
+  348  npm start
+  349  npm start
+  350  npm start
+  351  cd apps-pups
+  352  ls
+  353  cd profile
+  354  ls
+  355  yarn start
+  356  yarn start
+  357  yarn start
+  358  yarn start
+  359  npm start
+  360  git branch
+  361  git pull origin develop
+  362  git checkout -b master
+  363  git pull origin master
+  364  git add .
+  365  git branch
+  366  git checkout develop
+  367  git add .
+  368  git commit -m "Update version,update readme"
+  369  git push origin develop
+  370  git branch
+  371  git pull origin develop
+  372  git add .
+  373  git commit -m "Add dots to top of table"
+  374  git push origin develop
+  375  ls
+  376  ls 
+  377  cd Documents
+  378  ls
+  379  cd Github
+  380  ls
+  381  npx create-reaact-app searchbox
+  382  npx create-reaact-app searchbox
+  383  npx create-react-app searchbox
+  384  ls cd searchbox
+  385  ls
+  386  cd searchbox
+  387  git commit -m "first commit"
+  388  git remote add origin git@github.com:caarlosdamian/searchbox.git
+  389  git push origin master
+  390  code .
+  391  npm install @material-ui/core
+  392  npm i @material-ui/icons
+  393  git add .
+  394  git commit -m "Add styles"
+  395  git push origin master
+  396  npms start
+  397  npm start
+  398  git branch
+  399  git checout master
+  400  git checkout master
+  401  cd ..
+  402  cd ..
+  403  git checkout -b RLP-16067\n
+  404  cd apps-pups
+  405  cd user-accounts
+  406  yarn 
+  407  yarn start
+  408  yarn start
+  409  yarn start
+  410  yarn start
+  411  yarn start
+  412  yarn start
+  413  npm start
+  414  ls
+  415  npm install axios
+  416  git log
+  417  git branch 
+  418  git add .
+  419  git commit -m "Add funtionality"
+  420  git push origin master
+  421  yarn start
+  422  ls
+  423  cd Documents
+  424  ls
+  425  cd Branches
+  426  ls
+  427  cd gc-monorepo-admin
+  428  lks
+  429  git remote
+  430  git branch
+  431  git checkout master
+  432  git pull origin master
+  433  ls
+  434  cd Documents
+  435  ls
+  436  cd Dexma
+  437  ls
+  438  cd ..
+  439  ls
+  440  cd Github
+  441  ls
+  442  ll
+  443  ls
+  444  git clone https://gitlab.vision4.com.ar/dapecarlos/caixa-dashboards-front.git
+  445  ls
+  446  cd caixa-dashboards-front
+  447  ls
+  448  git remote
+  449  git remote add dashboard https://gitlab.vision4.com.ar/DEXMA/caixa-dashboards-front.git
+  450  git remote
+  451  git branch
+  452  git checkout -b develop
+  453  git pull dashboard develop
+  454  ls
+  455  npm install
+  456  code .
+  457  ls
+  458  npm start
+  459  git branch
+  460  git add . 
+  461  git commit -m "Testing"
+  462  git push origin develop
+  463  pwd
+  464  ls
+  465  cd caixa-dashboards-front
+  466  git add .
+  467  git commit -m "Fix Identation"
+  468  git branch
+  469  git remote
+  470  git push origin develop
+  471  git checkout -b FP-TEST
+  472  git add .
+  473  git commit -m "Remove empty file"
+  474  git branch
+  475  git push origin FP-TEST
+  476  git remote
+  477  git branch
+  478  git push dashboard FP-TEST
+  479  pwd
+  480  git remote
+  481  git pull dashboard develop
+  482  git branch
+  483  cd develop
+  484  git checkour develop
+  485  git checkout develop
+  486  git branch
+  487  git pull dashboard develop
+  488  git pull dashboard develop
+  489  git pull dashboard develop
+  490  git checkout -b NUEVA-RAMA
+  491  git branch
+  492  git add .
+  493  git commit -m "Remove line"
+  494  git push origin NUEVA-RAMA
+  495  git add .
+  496  git commit -m "fix observations"
+  497  git push origin NUEVA-RAMA
+  498  git checkout develop
+  499  git pull dashboard develop
+  500  ls
+  501  cd ..
+  502  mkdir gonzalo
+  503  cd gonzalo
+  504  ls
+  505  git clone https://gitlab.vision4.com.ar/gonzalog/caixa-dashboards-front.git
+  506  git remote
+  507  git remote
+  508  cd caixa-dashboards-front
+  509  ls
+  510  git remote
+  511  git remote add dashboard https://gitlab.vision4.com.ar/DEXMA/caixa-dashboards-front.git
+  512  git remote
+  513  git checkout -b develop
+  514  git branch
+  515  git pull origin develop
+  516  git branch
+  517  git pull dashboard develop
+  518  git add .
+  519  git commit -m "Update branch to dexma repository"
+  520  git push origin develop
+  521  git remote
+  522  pwd
+  523  code .
+  524  git branch
+  525  git add .
+  526  git commit -m "Add sorting to translations"
+  527  git commit -m "Add sorting to translations"
+  528  git add .
+  529  git commit -m "Add sorting to translations"
+  530  git add .
+  531  git commit -m "Fix sorting"
+  532  gi add .
+  533  git commit -m " Formattinh back"
+  534  gi add .
+  535  git add .
+  536  git commit -m " Formattinh back"
+  537  yarn test
+  538  jest --updateSnapshot
+  539  cd apps-pups/user-accounts
+  540  yarn test
+  541  jest --updateSnapshot
+  542  yarn test -u
+  543  git add .
+  544  yarn test
+  545  git add .
+  546  git commit -m "Fix identation , update test snapshots"
+  547  git add .
+  548  git commit -m "Fix identation , update test snapshots"
+  549  git add .
+  550  git commit -m "Fix identation , update test snapshots"
+  551  yarn test
+  552  yarn test -u
+  553  git add .
+  554  git commit -m "Add renderGroupPermissionInfo translations"
+  555  git add .
+  556  git commit -m "Add renderGroupPermissionInfo translations"
+  557  pwd
+  558  git add .
+  559  git commit -m "Testiando"
+  560  git branch
+  561  git pull master
+  562  git pull origin master
+  563  yarn start
+  564  git add .
+  565  git commit -m "Add input to userForm.tsx"
+  566  git checkout RLP-10307
+  567  yarn start
+  568  yarn start
+  569  git branch
+  570  git pull origin RLP-10307
+  571  yarn start
+  572  yarn start
+  573  yarn start
+  574  yarn start
+  575  yarn start
+  576  yarn start
+  577  yarn start
+  578  yarn start
+  579  yarn start
+  580  yarn start
+  581  yarn start
+  582  git branch
+  583  yarn test
+  584  yarn test -u
+  585  yarn add .
+  586  git add .
+  587  git commit -m "Fix issues, add helper"
+  588  yarn test
+  589  yarn test -u
+  590  git add .
+  591  git commit -m "Add identation,update test"
+  592  git add .
+  593  git commit -m "Add identation,update test"
+  594  git add .
+  595  git commit -m "Add identation,update test"
+  596  git add .
+  597  git commit -m "Add identation,update test"
+  598  git add .
+  599  git commit -m "Add identation,update test"
+  600  yarn test
+  601  yarn test
+  602  git add .
+  603  git commit -m "Update sort function"
+  604  git add .
+  605  git commit -m "Update sort function"
+  606  git add .
+  607  git commit -m "Update sort function"
+  608  git add .
+  609  git commit -m "Update sort function"
+  610  git add .
+  611  git commit -m "Update sort function"
+  612  git add .
+  613  git commit -m "Update sort function"
+  614  git add .
+  615  git commit -m "Resolved comments"
+  616  yarn test
+  617  git checkout RLP-15733
+  618  cd ..
+  619  git branch
+  620  ls
+  621  cd partner-auth
+  622  git branch
+  623   git branch RLP-15983
+  624   git checkout RLP-15983
+  625  git branch
+  626  yarn test
+  627  git add .
+  628  git commit -m "Add new file to tracking analitycs"
+  629  git add .
+  630  git commit -m "Add new file to tracking analitycs"
+  631  git add .
+  632  git commit -m "Add new file to tracking analitycs"
+  633  yarn test
+  634  cd ..
+  635  cd ..
+  636  ls
+  637  yarn test
+  638  yarn test
+  639  cd apps-pups/partner-auth
+  640  git branch
+  641   git branch
+  642   git checkout RLP-15983
+  643  yarn start
+  644  yarn start
+  645  yarn start
+  646  cd ..
+  647  la
+  648  ls
+  649  cd partner-auth
+  650  yarn start
+  651  yarn start
+  652  yarn start
+  653  yarn start
+  654  git branch
+  655  git checkout  RLP-15981
+  656  git add .
+  657  git commit -m "Remove unnesesary code, fix identation, delete dependency"
+  658  git add .
+  659  git commit -m "Remove unnesesary code, fix identation, delete dependency"
+  660  git checkout  RLP-15981
+  661  cd ..
+  662  cd ..
+  663  yarn test
+  664  cd apps-pups/partner-auth
+  665  yarn start
+  666  ls
+  667  cd Documents
+  668  ls
+  669  ls
+  670  cd OpenTable
+  671  ls
+  672  cd ..
+  673  cd ..
+  674  ls
+  675  mkdir Job
+  676  ls
+  677  cd Job
+  678  ls
+  679  git clone git@github.com:caarlosdamian/gc-monorepo-admin.git
+  680  git clone git@github.com:caarlosdamian/gc-monorepo-admin.git
+  681  git remote
+  682  ls
+  683  cd gc-monorepo-admin/
+  684  git remote -v
+  685  git remote add opentable git@github.com:opentable/gc-monorepo-admin.git
+  686  git remote -v
+  687  git branch
+  688  git pull opentable master
+  689  git pull opentable master
+  690  git push origin master
+  691  git push origin master
+  692  git push origin master
+  693  git push origin master
+  694  ls
+  695  yarn install 
+  696  cd apps-pups
+  697  cd partner-auth
+  698  yarn 
+  699  yarn start
+  700  yarn start
+  701  cd ..
+  702  cd ..
+  703  yarn test
+  704  cd..
+  705  ls
+  706  cd ..
+  707  cd ..
+  708  ls
+  709  cd Documents
+  710  ls
+  711  cd Github
+  712  git clone git@github.com:caarlosdamian/front-dashboard.git
+  713  .ls
+  714  git clone git@github.com:caarlosdamian/front-dashboard.git
+  715  cd front-dashboard
+  716  ls
+  717  npx create-react-app .
+  718  git branch
+  719  git checkout -b GA-RLP-15733
+  720  yarn start
+  721  ls
+  722  cd apps-pups/partner-auth
+  723  yarn start
+  724  yarn start
+  725  git add .
+  726  git commit -m "Add tracking file, add handleContinue functionality"
+  727  git add .
+  728  git commit -m "Add tracking file, add handleContinue functionality"
+  729  git add .
+  730  git commit -m "Add tracking file, add handleContinue functionality"
+  731  git add .
+  732  git commit -m "Update version"
+  733  git add .
+  734  git commit -m "Resolved PR comments"
+  735  git add .
+  736  git commit -m "Initial app structure"
+  737  git push origin master
+  738  git push origin master
+  739  git push origin master
+  740  ls
+  741  cd Documents
+  742  cd Github
+  743  ls
+  744  cd front-dashboard
+  745  ls
+  746  code .
+  747  cd ..
+  748  ls
+  749  git clone git@gitlab.com:laurapilates/app.git
+  750  cat ~/.ssh/id_dsa.pub
+  751  cat ~/.ssh/id_rsa.pub
+  752  git clone git@gitlab.com:laurapilates/app.git
+  753  ls
+  754  cd app
+  755  ls
+  756  cd frontend
+  757  ls
+  758  cd Job
+  759  ls
+  760  cd gc-monorepo-admin
+  761  git branch
+  762  git pull opentable master
+  763  git pull opentable master
+  764  git checkout master
+  765  git pull opentable master
+  766  git push origin master
+  767  git checkout -b BUG-RLP-15826
+  768  pwd
+  769  cd ..
+  770  cd profile
+  771  git branch
+  772  yarn
+  773  yarn start
+  774  git add .
+  775  git branch
+  776  git commit -m "Add smooth scroll to basic Info"
+  777  git branch
+  778  git branch
+  779  git branch
+  780  git add .
+  781  git commit -m "Add smooth scroll to basic Info"
+  782  git add .
+  783  git commit -m "Add smooth scroll to basic Info"
+  784  yarn start
+  785  yarn test
+  786  git add .
+  787  git commit -m "Update version"
+  788  git branch
+  789  git pull opentable master
+  790  git branch
+  791  git checkout master
+  792  git pull opentable master
+  793  git push origin master
+  794  git checkout -b RLP-16164\n\n
+  795  git branch
+  796  ls
+  797  cd ..
+  798  ls
+  799  cd partner-auth
+  800  yarn
+  801  yarn start
+  802  yarn start
+  803  yarn start
+  804  yarn start
+  805  cd apps-pups/partner-auth
+  806  yarn start
+  807  git branch
+  808  git add .
+  809  git commit -m "City and Location to RidItem"
+  810  git add .
+  811  git commit -m "Added City and Location to RidItem"
+  812  yarn test
+  813  git add .
+  814  git commit -m "Update version"
+  815  ls
+  816  npm install
+  817  npm start
+  818  git checkout -b point-labels
+  819  git add . 
+  820  git commit -m "Add labels to point of sale\n"
+  821  git puhs origin point-labels
+  822  git push origin point-labels
+  823  git branch
+  824  git checkout -b add_qr_endpoints
+  825  git pull origin add_qr_endpoints
+  826  cd ..
+  827  ls
+  828  git add .
+  829  git commit -m "merge "
+  830  git branch
+  831  git checkout -b add_qr_OPCIONAL
+  832  git push add_qr_OPCIONAL
+  833  git push origin add_qr_OPCIONAL
+  834  git branch
+  835  cd apps-pups
+  836  cd partner-auth
+  837  ls
+  838  yarn start
+  839  git add .
+  840  git commit -m "Fix Pull request comments"
+  841  npm install
+  842  npm start
+  843  git branch
+  844  git add .
+  845  git commit -m "Add labels"
+  846  git push origin pos-labels
+  847  git branch
+  848  git add .
+  849  git checkout -b changes
+  850  git add .
+  851  git commit -m "Mejoras"
+  852  git push origin changes
+  853  ls
+  854  rm sdptmp
+  855  cd sdptmp
+  856  ls
+  857  cd ..
+  858  ls
+  859  cd Documents
+  860  ls
+  861  cd TOT
+  862  ls
+  863  git clone git@gitlab.com:laurapilates/app.git
+  864  git clone git@gitlab.com:laurapilates/app.git
+  865  git clone git@gitlab.com:laurapilates/app.git
+  866  git clone git@gitlab.com:laurapilates/app.git
+  867  ls
+  868  cd app
+  869  ls
+  870  ls 
+  871  cd frontend
+  872  ls
+  873  git branch
+  874  git checkout -b add_qr_endpoints
+  875  git pull origin add_qr_endpoints
+  876  git branch
+  877  git checkout -b pos-labels
+  878  pwd
+  879  git branch
+  880  git checkout master
+  881  git pull opentable master
+  882  git pull opentable master
+  883  yarn start
+  884  yarn start
+  885  git checkout -b RLP-16171
+  886  cd apps-pups/partner-auth
+  887  yarn test
+  888  git add .
+  889  git commit -m "Fix desing issues"
+  890  git add .
+  891  git commit -m "Fix desing issues"
+  892  git add .
+  893  git commit -m "Fix desing issues"
+  894  git add .
+  895  git commit -m "Fix desing issues"
+  896  git add .
+  897  git commit -m "Fix desing issues"
+  898  cd apps-pups/partner-auth
+  899  yarn start
+  900  yarn start
+  901  yarn start
+  902  yarn start
+  903  yarn start
+  904  git add .
+  905  git commit -m "Fix some desing bugs"
+  906  git add .
+  907  git commit -m "Fix some desing bugs"
+  908  git add .
+  909  git commit -m "Fix some desing bugs"
+  910  git add .
+  911  git commit -m "Fix some desing bugs"
+  912  git add .
+  913  git commit -m "Fix some desing bugs"
+  914  git add .
+  915  git commit -m "Fix some desing bugs"
+  916  git add .
+  917  git commit -m "Fix some desing bugs"
+  918  ls
+  919  cd Job
+  920   cd gc-monorepo-admin
+  921  ls
+  922  git pull opentable master
+  923  git pull opentable master
+  924  git pull opentable master
+  925  git push origin master 
+  926  cd ..
+  927  ls
+  928  cd ..
+  929  ls
+  930  ls
+  931  cd Documents
+  932  ls
+  933  cd TOT
+  934  ls
+  935  cd ..
+  936  ls
+  937  npm install react-redux
+  938  git add .
+  939  git commit -m "Add dependencies"
+  940  git push origin master
+  941  git add .
+  942  git commit -m "Add Redux , add reducers and actions"
+  943  git push origin master
+  944  npm install react-router-dom@6\n
+  945  npm install -g eslint
+  946  eslint --init
+  947  git add .
+  948  git commit -m "Add dependencies"
+  949  npm pre-commit
+  950  npm run lint
+  951  git stash
+  952  git add .
+  953  git commit -m "Add Dependencies
+  954  $ npm install axios
+  955  npm i axios
+  956  #\nnpm install @reduxjs/toolkit
+  957  npm start
+  958  git branch
+  959  git add .
+  960  git commit -m "Add pos labels , branch"
+  961  git push origin changes
+  962  ls
+  963  npm start
+  964  npm start
+  965  npm start
+  966  ls
+  967  cd Documents
+  968  ls
+  969  cd Github
+  970  ls
+  971  npx create-react-app router
+  972  git remote add origin git@github.com:caarlosdamian/router-v6.git
+  973  git add .
+  974  git commit -m "Add application"
+  975  git push origin master
+  976  npm install react-router-dom@6
+  977  git add .
+  978  git commit -m "Add private routes"
+  979  git push origin master
+  980  npm start
+  981  ls
+  982  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n
+  983  cd Documents
+  984  cd Github
+  985  ls
+  986  cd dashboard
+  987  git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k\n
+  988  open ~/.zhrc
+  989  cd ~/.zshrc
+  990  ls
+  991  cd ~
+  992  ls
+  993  ls -lha
+  994  vi .zshrc
+  995  ls
+  996  cd Documents
+  997  ls
+  998  cd Github
+  999  ls
+ 1000  npx create-react-app gif-expert
+ 1001  ;s
+ 1002  ls
+ 1003  open .zshrc
+ 1004  ls
+ 1005  cd Documents
+ 1006  ls cd Github
+ 1007  ls
+ 1008  cd Dexma
+ 1009  ls
+ 1010  cd caixa-dashboards-front
+ 1011  ls
+ 1012  open ./zsjrc
+ 1013  ls -lha
+ 1014  open .zshrc
+ 1015  ls
+ 1016  cd Documents
+ 1017  ls
+ 1018  cd Github
+ 1019  ls dashboard
+ 1020  ls
+ 1021  cd c
+ 1022  cd caixa-dashboards-front
+ 1023  git pull origin master
+ 1024  git add .
+ 1025  git commit -m "Add textInput component"
+ 1026  git branch
+ 1027  git push origin FD-15
+ 1028  git branch
+ 1029  git checkout develop
+ 1030  git remote -v
+ 1031  git remote -v
+ 1032  cd ..
+ 1033  mkdir martin
+ 1034  cd martin
+ 1035  ls
+ 1036  git clone git@github.com:MAEDVIM/front-dashboard.git
+ 1037  git remote -v
+ 1038  ls
+ 1039  cd front-dashboard
+ 1040  git remote -v
+ 1041  git add remote dashboard git@github.com:caarlosdamian/front-dashboard.git
+ 1042  git remote add dashboard git@github.com:caarlosdamian/front-dashboard.git
+ 1043  git remote -v
+ 1044  ls
+ 1045  git branch
+ 1046  git checkout develop
+ 1047  git branch
+ 1048  git checkout -b develop
+ 1049  gri branch
+ 1050  git branch
+ 1051  ls
+ 1052  npm install
+ 1053  npm start
+ 1054  git branch
+ 1055  git pull dashboard develop
+ 1056  npm start
+ 1057  npm install
+ 1058  npm start
+ 1059  git branch
+ 1060  git remote -v
+ 1061  git pull dashboard develop
+ 1062  git checkout -b nuevticket
+ 1063  git branch
+ 1064  npm -v
+ 1065  npm update
+ 1066  npm -v
+ 1067  √
+ 1068  npm install -g npm@latest
+ 1069  npm -v
+ 1070  npm install
+ 1071  npm update
+ 1072  git branch
+ 1073  git pull origin master
+ 1074  git checkout -b develop
+ 1075  git push origin develop
+ 1076  git branch
+ 1077  git checkout -b FD-15
+ 1078  git branch
+ 1079  npm start
+ 1080  git branch
+ 1081  git checkout BUG-RLP-15826
+ 1082  git add . 
+ 1083  git commit -m "Update production version"
+ 1084  git branch
+ 1085  git add .
+ 1086  git commit -m "Change User Accounts production version"
+ 1087  git pull opentable master]\n: 1641829972:0;git pull opentable master
+ 1088  git push origin BUG-RLP-15826
+ 1089  git branch
+ 1090  git checkout master
+ 1091  git pull opentable master
+ 1092  git push origin master
+ 1093  ls
+ 1094  cd apps
+ 1095  cd ..
+ 1096  cd apps-pups
+ 1097  lsa
+ 1098  cd user-accounts
+ 1099  yarn 
+ 1100  ls
+ 1101  yarn install
+ 1102  yarn --version
+ 1103  npm install --global yarn
+ 1104  brew install yarn
+ 1105  node -v
+ 1106  yarn -v
+ 1107  yarn --version
+ 1108  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash\n
+ 1109  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash\n
+ 1110  -v nvm\n
+ 1111  nvm -v
+ 1112  yarn -v
+ 1113  nvm -v
+ 1114  node -v
+ 1115  npm -v
+ 1116  nvm v
+ 1117  node v
+ 1118  ls
+ 1119  npm -v
+ 1120  node -v
+ 1121  yarn -v
+ 1122  cd apps-pups
+ 1123  cd user-accounts
+ 1124  yarn
+ 1125  yarn start
+ 1126  cd Documents/Github/gif-expert
+ 1127  ls
+ 1128  git remote add origin git@github.com:caarlosdamian/GifExpert.git
+ 1129  git add .
+ 1130  git commit -m "Add application"
+ 1131  git push origin master
+ 1132  code .
+ 1133  npm start
+ 1134  cd ..
+ 1135  ls
+ 1136  cd front-dashboard
+ 1137  git pull origin master
+ 1138  code .
+ 1139  git add .
+ 1140  git commit -m "Update branch"
+ 1141  git push origin develop
+ 1142  cd ..
+ 1143  ls
+ 1144  cd ..
+ 1145  ls
+ 1146  cd TOT
+ 1147  ls
+ 1148  cd app
+ 1149  npm i prop-types
+ 1150  git add .
+ 1151  git commit -m "Add some components"
+ 1152  git push origin master
+ 1153  yarn global add cypress@8.7
+ 1154  cd apps-pups/profile
+ 1155  yarn cy:run
+ 1156  yarn cy:open
+ 1157  ls
+ 1158  cd Documents
+ 1159  cd Github
+ 1160  ls
+ 1161  npx create-react-app testing-react-app
+ 1162  ls
+ 1163  cd testin
+ 1164  cd testing-react-app
+ 1165  code .
+ 1166  npm start
+ 1167  npm run test
+ 1168  git pull opentable master
+ 1169  git push origin master
+ 1170  npm start
+ 1171  git pull origin develop
+ 1172  git add .
+ 1173  git commit -m "Remove unnecesary imports"
+ 1174  git push origin develop
+ 1175  npm start
+ 1176  git remote -v
+ 1177  git push dasboard develop
+ 1178  git remote -v
+ 1179  git pull dashboard develop
+ 1180  git push dashboard develop
+ 1181  git branch
+ 1182  git add . 
+ 1183  git commit -m "Add api call"
+ 1184  git push origin master
+ 1185  git pull origin develop
+ 1186  npm start
+ 1187  git add .
+ 1188  git commit -m "Build Login container"
+ 1189  git push origin develop
+ 1190  git add .
+ 1191  git commit -m "Comment Login"
+ 1192  git push origin develop
+ 1193  git pull opentable master
+ 1194  git push origin master
+ 1195  cd apps-pups/profile
+ 1196  yarn test
+ 1197  jest DetailsPage.test.tsx
+ 1198  yarn test
+ 1199  jest
+ 1200  yarn test
+ 1201  yarn test u
+ 1202  yarn test 
+ 1203  yarn test BasicInformationStepper.test.tsx
+ 1204  git pull origin develop
+ 1205  npm start
+ 1206  npm i redux-persist
+ 1207  git add .
+ 1208  git commit -m "Add login functionality , add redux persis"
+ 1209  git push origin develop
+ 1210  git checkout master
+ 1211  git pull origin develop
+ 1212  git push origin master
+ 1213  git checkout develop
+ 1214  ls
+ 1215  cd Documents
+ 1216  cd Github
+ 1217  mkdir Gonzalo
+ 1218  ls
+ 1219  cd gonzalo
+ 1220  git remote-v
+ 1221  ls
+ 1222  cd caixa-dashboards-front
+ 1223  git remote -v
+ 1224  git checkout -b \nFP-36-FILTRADOS
+ 1225  git pull origin FP-36-FILTRADOS
+ 1226  npm install
+ 1227  npm start
+ 1228  cd Documents/Github/gonzalo
+ 1229  code .
+ 1230  cy:opem
+ 1231  cy:open
+ 1232  yarn cy:open
+ 1233  ls
+ 1234  cd apps-pups/profile
+ 1235  ls
+ 1236  cd caixa-dashboards-front
+ 1237  git pull origin FP-36-FILTRADOS
+ 1238  npm start
+ 1239  yarn test
+ 1240  yarn 
+ 1241  yarn start
+ 1242  cd apps-pups/profile
+ 1243  yarn InternalNotesPage.test.tsx
+ 1244  yarn test  InternalNotesPage.test.tsx
+ 1245  cd ..
+ 1246  ls
+ 1247  cd profile
+ 1248  yarn 
+ 1249  yarn start
+ 1250  yarn test  InternalNotesPage.test.tsx
+ 1251  yarn test
+ 1252  yarn test  InternalNotesPage.test.tsx
+ 1253  yarn test
+ 1254  yarn test GuideBanner.test.tsx
+ 1255  yarn test StepPreview.test.tsx
+ 1256  yarn test  InternalNotesPage.test.tsx
+ 1257  yarn test
+ 1258  yarn test  InternalNotesPage.test.tsx
+ 1259  yarn test
+ 1260  git checkout -b RLP-15448\n\n
+ 1261  git add .
+ 1262  git commit -m "Review and refactor cypress tests in profile"
+ 1263  git add .
+ 1264  git commit -m "Review and refactor cypress tests in profile"
+ 1265  git add .
+ 1266  git commit -m "Update version"
+ 1267  ls
+ 1268  cd Gi
+ 1269  cd Documents
+ 1270  git pull origin develop
+ 1271  git checkout -b FD-20\n\n
+ 1272  npm start
+ 1273  git add .
+ 1274  git commit -m "Add functionality:\n"
+ 1275  git push origin DF-20
+ 1276  git push origin FD-20
+ 1277  yarn cy:open
+ 1278  npm start
+ 1279  git add .
+ 1280  git commit -m "fix bugs"
+ 1281  git remote -v
+ 1282  git push origin changes
+ 1283  git branch
+ 1284  ls
+ 1285  cd caixa-dashboards-front
+ 1286  git remote -v
+ 1287  git pull origin FP-36-FILTRADOS
+ 1288  npm intall
+ 1289  npm install
+ 1290  git pull dashborad develop
+ 1291  git remote -v
+ 1292  git pull dashboard develop
+ 1293  git add .
+ 1294  git commit -m "Merge into develop"
+ 1295  npm start
+ 1296  git add .
+ 1297  cd caixa-dashboards-front
+ 1298  git add .
+ 1299  git commit -m "Fix some bugs add api call"
+ 1300  git push origin FD-36-FILTRADOS
+ 1301  git push dashboard FP-36-FILTRADOS
+ 1302  git pull dashboard develop
+ 1303  git push origin develop
+ 1304  git push origin FP-36-FILTRADOS
+ 1305  git branch
+ 1306  git checkout develop
+ 1307  git pull origin develop
+ 1308  npm start
+ 1309  git add .
+ 1310  git commie -m "Add Sidebar , routes , index to componentes routes pages and hooks"
+ 1311  git commit -m "Add Sidebar , routes , index to componentes routes pages and hooks"
+ 1312  git push origtin develop
+ 1313  git push origin develop
+ 1314  ls
+ 1315  cd Documents/Github
+ 1316  ls
+ 1317  cd front-dashboard
+ 1318  git pull origin develop
+ 1319  npm start
+ 1320  cd Documents/Github/front-dashboard
+ 1321  code .
+ 1322  git pull origin develop
+ 1323  npm
+ 1324  npm start
+ 1325  npm install formik --save
+ 1326  npm i yup
+ 1327  npm start
+ 1328  git add .
+ 1329  git commit -m "Fix bugs"
+ 1330  git push origin develop
+ 1331  git add .
+ 1332  git commit -m "Fix bugs"
+ 1333  git push origin develop
+ 1334  git pull origin RLP-15448
+ 1335  yarn start
+ 1336  yarn test
+ 1337  git pull origin RLP-15448
+ 1338  yarn test
+ 1339  git pull opentable master
+ 1340  yarn start
+ 1341  yarn test
+ 1342  yarn cy:open
+ 1343  git add .
+ 1344  git commit -m "undo some files delets"
+ 1345  git add .
+ 1346  git commit -m "undo some files delets"
+ 1347  git add .
+ 1348  git commit -m "undo some files delets"
+ 1349  git add  ../../shared_modules/shared-react-atomic-ui/finalform-fields/TextAreaField.tsx
+ 1350  git commit -m "undo some files delets"
+ 1351  git add  ../../shared_modules/shared-react-atomic-ui/finalform-fields/TextAreaField.tsx
+ 1352  git commit -m "undo some files delets"
+ 1353  cd Documents
+ 1354  ls
+ 1355  cd Github
+ 1356  ls
+ 1357  git clone git@github.com:emgiraldo9/gc-monorepo-admin.git
+ 1358  cd gc-monorepo-admin
+ 1359  ls
+ 1360  git checkout -b 15981
+ 1361  git pull origin 15981
+ 1362  ls
+ 1363  yarn install
+ 1364  cd apps-pups/partner-auth/
+ 1365  yarn
+ 1366  yarn start
+ 1367  cd Documents/Github/gc-monorepo-admin/apps-pups/partner-auth
+ 1368  code .
+ 1369  git checkout -b 15981
+ 1370  git pull origin 15981
+ 1371  yarn start
+ 1372  cd caixa-dashboards-front
+ 1373  git pull origin FP-36FILTRADOS
+ 1374  git pull origin FP-36-FILTRADOS
+ 1375  git pull origin FP-36-FILTRADOS-COLORES
+ 1376  git checkout -b FP-36-FILTRADO-COLORES
+ 1377  git pull origin FP-36-FILTRADO-COLORES
+ 1378  yarn 
+ 1379  npm i
+ 1380  npm start
+ 1381  cd ..
+ 1382  ls
+ 1383  cd ..
+ 1384  ls
+ 1385  cd ..
+ 1386  ls
+ 1387  cd TOT
+ 1388  ls
+ 1389  git clone https://gitlab.vision4.com.ar/DEXMA/caixa-dashboards-front.git
+ 1390  cd caixa-dashboards-front
+ 1391  git checkout -b develop
+ 1392  git pull origin develop
+ 1393  code .
+ 1394  git add .
+ 1395  git pull origin develop
+ 1396  npm start
+ 1397  npm install
+ 1398  npm start
+ 1399  git checkout -b \nFP-36-FILTRADOS
+ 1400  git pull origin \nFP-36-FILTRADOS
+ 1401  npm start
+ 1402  git pull origin FP-36-FILTRADO-COLORES
+ 1403  npm start
+ 1404  cd caixa-dashboards-front
+ 1405  git add .
+ 1406  git commit -m "Fix bugs"
+ 1407  git push origin FP-36-FILTRADO-COLORES
+ 1408  npm start
+ 1409  git add .
+ 1410  git commit -m "Add container to BottomTable"
+ 1411  git push origin FP-36-FILTRADO-COLORES
+ 1412  cd ..
+ 1413  cd Job
+ 1414  cd gc-monorepo-admin
+ 1415  code ,
+ 1416  code .
+ 1417  npm start
+ 1418  yarn test
+ 1419  cd apps-pups/profile
+ 1420  yarn test
+ 1421  git pull origin FP-36FILTRADO-COLORES
+ 1422  git pull origin FP-36-FILTRADO-COLORES
+ 1423  npm start
+ 1424  git add .
+ 1425  git commit -m "Fix desing"
+ 1426  git push origin FP-36-FILSTRADO-COLORES
+ 1427  git push origin FP-36-FILTRADO-COLORES
+ 1428  git remote -v
+ 1429  git pull dashboard develop
+ 1430  git push origin FP-36-FILTRADO-COLORES
+ 1431  yarn test 
+ 1432  git add .
+ 1433  git commit -m "Fix merge comments"
+ 1434  git add .
+ 1435  git commit -m "Fix merge comments"
+ 1436  git add .
+ 1437  git commit -m "Fix merge comments"
+ 1438  yarn test
+ 1439  git add .
+ 1440  git commit -m "Fix merge comments"
+ 1441  git add .
+ 1442  git commit -m "Fix merge comments"
+ 1443  git add  ../../shared_modules/shared-react-atomic-ui/finalform-fields/TextAreaField.tsx
+ 1444  git commit -m "Fix imports"
+ 1445  yarn test
+ 1446  yarn start
+ 1447  yarn test
+ 1448  cd apps-pups/profile
+ 1449  yarn start
+ 1450  yarn test
+ 1451  gi add .
+ 1452  git add .
+ 1453  git commit -m "Fix imports"
+ 1454  git add .
+ 1455  git commit -m "Delete Cypress test InternalNotes"
+ 1456  git add .
+ 1457  git commit -m "Delete Cypress Legacy test"
+ 1458  git log
+ 1459  cd caixa-dashboards-front
+ 1460  git log
+ 1461  git push dashboard develop
+ 1462  git pull dasboard develop
+ 1463  git remote -v
+ 1464  git pull dashboard develop
+ 1465  git push dashboard develop
+ 1466  git pull 
+ 1467  git fetch dashboard develop
+ 1468  git checkout develop
+ 1469  git merge FP-36-FILTRADO-COLORES
+ 1470  git push origin develop
+ 1471  git pull dashboard develop
+ 1472  ls
+ 1473  git pull dashboard develop
+ 1474  npm start
+ 1475  cd Job
+ 1476  ls
+ 1477  cd gc-monorepo-admin
+ 1478  git checkout master
+ 1479  git pull opentable master
+ 1480  git push origin master
+ 1481  git checkout -b RLP-16257
+ 1482  code .
+ 1483  sudo rm /usr/local/bin/code
+ 1484  sudo ln -fs "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/\n
+ 1485  code .
+ 1486  cd apps-pups/partner-auth
+ 1487  yarn
+ 1488  yarn test
+ 1489  cd caixa-dashboards-front
+ 1490  npm start
+ 1491  git pull dashboard develop
+ 1492  npm start
+ 1493  cd caixa-dashboards-front
+ 1494  git add .
+ 1495  git commit -m "Fix some desings"
+ 1496  git push origin develop
+ 1497  npm start
+ 1498  cd caixa-dashboards-front
+ 1499  npm start
+ 1500  cd caixa-dashboards-front
+ 1501  git add .
+ 1502  git commit -m "Fix desing"
+ 1503  git push origin develop
+ 1504  git push dashboard develop
+ 1505  git pull dashboard develop
+ 1506  git add .
+ 1507  git commit -m "version 2.0"
+ 1508  git push dashboard develop
+ 1509  git push origin develop
+ 1510  git add .
+ 1511  git commit -m "version 2.0"
+ 1512  cd Documents/Github
+ 1513  ls
+ 1514  cd gif-expert
+ 1515  code .
+ 1516  npm start
+ 1517  git add .
+ 1518  git commit -m "Add functionality"
+ 1519  git push origin master
+ 1520  cd caixa-dashboards-front
+ 1521  git stash
+ 1522  git add .
+ 1523  git commit -m "Add api calls"
+ 1524  git push origin develop 
+ 1525  git push dashboard develop
+ 1526  cd apps-pups/partner-auth
+ 1527  yarn test
+ 1528  git add .
+ 1529  git commit -m "Add Test utils"
+ 1530  git push origin RLP-16257
+ 1531  yarn test
+ 1532  npm start
+ 1533  git add .
+ 1534  git commit -m "Add desgin"
+ 1535  git push origin master
+ 1536  npm i --save-dev enzyme enzyme-adapter-react-16\n
+ 1537  npm i  enzyme enzyme-adapter-react-16\n
+ 1538  npm i --save-dev enzyme enzyme-adapter-react-16\n
+ 1539  npm install
+ 1540  npm i --save-dev enzyme enzyme-adapter-react-16\n
+ 1541  npm install
+ 1542  npm start
+ 1543  npm i --save-dev enzyme enzyme-adapter-react-16\n
+ 1544  cd Documents/Github
+ 1545  npx create-react-app test-react
+ 1546  cd test-react
+ 1547  ls
+ 1548  code .
+ 1549  npm install @testing-library/react react-test-renderer jest-dom --save-dev
+ 1550  npm start
+ 1551  npm test
+ 1552  cd ..
+ 1553  npx create-react-app hooks
+ 1554  cd hooks
+ 1555  code .
+ 1556  cd ..
+ 1557  ls
+ 1558  npm start
+ 1559  git remote add origin git@github.com:caarlosdamian/Hooks-App.git
+ 1560  git add .
+ 1561  git commit -m "Add application"
+ 1562  git push origin master
+ 1563  git add .
+ 1564  git commit -m "Add Usestate and useEffect Hooks"
+ 1565  git push origin master
+ 1566  npm start
+ 1567  git add 
+ 1568  git add .
+ 1569  cd caixa-dashboards-front
+ 1570  git add .
+ 1571  git commit -m "Fix clean up"
+ 1572  git push dashboard develop
+ 1573  cd Documents/Gi1
+ 1574  cd Documents
+ 1575  cd Github
+ 1576  mkdir projects
+ 1577  cd projects
+ 1578  npx create-react-app hooks
+ 1579  npm start
+ 1580  git remote add origin git@github.com:caarlosdamian/Lesson-Custom.git
+ 1581  git add .
+ 1582  git commit -m "Add app"
+ 1583  git push origin master
+ 1584  npm start
+ 1585  git add .
+ 1586  git  commit -m "Add useRef,useState,useEffect"
+ 1587  git push origin master
+ 1588  npm run test
+ 1589  npm i rerender
+ 1590  w
+ 1591  npm i rerender
+ 1592  npm run test
+ 1593  git add .
+ 1594  git commit -m "Add testing to components"
+ 1595  git push origin develop
+ 1596  npm start
+ 1597  git add .
+ 1598  git commit -m "Fix login"
+ 1599  git push origin develop
+ 1600  npm start
+ 1601  git add .
+ 1602  git commit -m "Add env file"
+ 1603  git push origin develop
+ 1604  npm run test
+ 1605  npm run Login.test.jsx
+ 1606  npm run test Login.test.jsx
+ 1607  yarn test
+ 1608  cd apps-pups/partner-auth
+ 1609  yarn test
+ 1610  yarn start
+ 1611  cd apps-pups/partner-auth/
+ 1612  yarn test
+ 1613  cd apps-pups/partner-auth
+ 1614  yarn test
+ 1615  cd apps-pups/partner-auth
+ 1616  yarn test
+ 1617  yarn test PartnerAuthenticator.test.jsx
+ 1618  yarn test
+ 1619  yarn u
+ 1620  yarn test -u
+ 1621  ls
+ 1622  yarn test -u
+ 1623  yarn test
+ 1624  yarn jest --clearCache
+ 1625  yarn test
+ 1626  yarn test PartnerAuthenticator.test.jsx
+ 1627  yarn test 
+ 1628  arn test --coverage
+ 1629  yarn test --coverage
+ 1630  git add .
+ 1631  git commit -m "Add some test to Partner auth"
+ 1632  git add .
+ 1633  git commit -m "Add some test to Partner auth"
+ 1634  git add .
+ 1635  git commit -m "Add some test to Partner auth"
+ 1636  git add .
+ 1637  git commit -m "Add some test to Partner auth"
+ 1638  git add .
+ 1639  git commit -m "Add some test to Partner auth"
+ 1640  git add .
+ 1641  git commit -m "Add some test to Partner auth"
+ 1642  git add .
+ 1643  git commit -m "Add some test to Partner auth"
+ 1644  yarn start
+ 1645  git pull dashboard develop
+ 1646  cd caixa-dashboards-front
+ 1647  git pull dashboard develop
+ 1648  npm start
+ 1649  cd caixa-dashboards-front
+ 1650  git add .
+ 1651  git commit -m "Add style to fit Pre-prod add widgets data from api?"
+ 1652  git push dashboard develop
+ 1653  git add .
+ 1654  git commit -m "update version"
+ 1655  git pull dashboard develop
+ 1656  git add .\n: 1643035230:0;git add .
+ 1657  git commit -m "update version"
+ 1658  git add .
+ 1659  git commit -m "update version"
+ 1660  git add .
+ 1661  git commit -m "update version"
+ 1662  git pull dashboard develop
+ 1663  cd apps-pups/partner-auth
+ 1664  yarn test
+ 1665  cd apps-pups/partner-auth
+ 1666  yarn test
+ 1667  yarn start
+ 1668  yarn test
+ 1669  yarn test RidItem.test.tsx
+ 1670  git add .
+ 1671  git commit -m "Add testing to components"
+ 1672  git add .
+ 1673  git commit -m "Add testing to components"
+ 1674  git add .
+ 1675  git commit -m "Add testing to components"
+ 1676  git add .
+ 1677  git commit -m "Add testing to components"
+ 1678  git add .
+ 1679  git commit -m "Add testing to components"
+ 1680  git add .
+ 1681  git commit -m "Add testing to components"
+ 1682  git add .
+ 1683  git commit -m "Add testing to components"
+ 1684  git add .
+ 1685  git commit -m "Add testing to components"
+ 1686  git add .
+ 1687  git commit -m "Add testing to components"
+ 1688  git add .
+ 1689  git commit -m "Add testing to components"
+ 1690  git checkout RLP-15448\n\n
+ 1691  git add .
+ 1692  git commit -m "Update version to production\n"
+ 1693  git add .
+ 1694  git commit -m "Update version to production\n"
+ 1695  cd ..
+ 1696  cd profile
+ 1697  git add .
+ 1698  git commit -m "Update version to production\n"
+ 1699  git pull opentable master
+ 1700  git add .
+ 1701  git commit -m "Merge master into local branch"
+ 1702  git stash
+ 1703  git pull opentable master
+ 1704  git add .
+ 1705  git stash
+ 1706  cd apps-pups/profile
+ 1707  git pull opentable master
+ 1708  git add .
+ 1709  git commit -m "merge master with local branch"
+ 1710  git stash
+ 1711  git checkout master
+ 1712  git pull opentable master
+ 1713  git push origin master
+ 1714  git checkout -b RLP-15448-Deploy
+ 1715  git add .
+ 1716  git commit -m "Update version"
+ 1717  git push origin RLP-15448-Deploy
+ 1718  git add .
+ 1719  git commit -m "Add test"
+ 1720  git push origin develop
+ 1721  npm test useForm.test.js
+ 1722  npm i npm i @testing-library/react-hooks
+ 1723  git pull origin develop
+ 1724  npm i npm i @testing-library/react-hooks
+ 1725  git add .
+ 1726  git commit -m "Add testing dependencies"
+ 1727  git push origin develop
+ 1728  git add .
+ 1729  git commit -m "Refactor"
+ 1730  git push origin develo
+ 1731  git push origin develop
+ 1732  npm start
+ 1733  cd caixa-dashboards-front
+ 1734  npm start
+ 1735  cd caixa-dashboards-front
+ 1736  git add .
+ 1737  git commit -m "fix pre-prod" 
+ 1738  git push dashboard develop
+ 1739  cd Documents
+ 1740  Github
+ 1741  mkdir job
+ 1742  cd job
+ 1743  npx create-react-app caixa-dashboards-front
+ 1744  code .
+ 1745  npm install
+ 1746  git remote add origin git@github.com:caarlosdamian/front-info.git
+ 1747  git push origin master
+ 1748  npm start
+ 1749  git add .
+ 1750  git commit -m "Add Top widgets"
+ 1751  git push origin master
+ 1752  git add .
+ 1753  git commit -m "Table add table data"
+ 1754  git push origin master
+ 1755  git add .
+ 1756  git commit -m "Add headers"
+ 1757  git push origin master
+ 1758  npm start
+ 1759  git add .
+ 1760  git commit -m "Fixes"
+ 1761  git push origin master
+ 1762  git branch
+ 1763  git checkout RLP-16257
+ 1764  yarn test 
+ 1765  cd apps-pups/partner-auth
+ 1766  yarn test
+ 1767  yarn test useRestaurantSearch.test.ts
+ 1768  yarn start
+ 1769  cd apps-pups/partner-auth
+ 1770  yarn test useRestaurantSearch.test.ts
+ 1771  git add .
+ 1772  git commit -m "Add yseRestaurantSearch test"
+ 1773  git add .
+ 1774  git commit -m "Add yseRestaurantSearch test"
+ 1775  git add .
+ 1776  git commit -m "Add yseRestaurantSearch test"
+ 1777  yarn test usePartnerConnector.test.ts
+ 1778  yarn test
+ 1779  git add .
+ 1780  git commit -m " Add usePartnerConnectos test"
+ 1781  git add .
+ 1782  git commit -m " Add usePartnerConnectos test"
+ 1783  git add .
+ 1784  git commit -m "update version"
+ 1785  sudo npm install -g expo-cli
+ 1786  ls
+ 1787  cd Do
+ 1788  cd Documents/Github
+ 1789  git clone git@github.com:alonsogarcias/AplicacionRepartidorHapsay.git
+ 1790  ls
+ 1791  cd AplicacionRepartidorHapsay
+ 1792  ls
+ 1793  yarn i
+ 1794  yarn
+ 1795  yarn start
+ 1796  expo install
+ 1797  yarn start
+ 1798  code .
+ 1799  cd ..
+ 1800  ls
+ 1801  mkdir react-native
+ 1802  cd react-native
+ 1803  ls
+ 1804  git clone git@github.com:alonsogarcias/AplicacionRepartidorHapsay.git
+ 1805  cd AplicacionRepartidorHapsay
+ 1806  expo install
+ 1807  yarn install
+ 1808  cd ..
+ 1809  ls
+ 1810  cd job
+ 1811  ls
+ 1812  cd ..
+ 1813  ls
+ 1814  cd ..
+ 1815  ls
+ 1816  cd Github
+ 1817  ls
+ 1818  cd gonzalo
+ 1819  ls
+ 1820  mkdir versio2
+ 1821  cd versio2
+ 1822  git clone git@github.com:caarlosdamian/front-info.git
+ 1823  ls
+ 1824  cd front-info
+ 1825  ls
+ 1826  npm install
+ 1827  npm start
+ 1828  git add .
+ 1829  git commit -m "Add some fix and dummy data"
+ 1830  git push origin master
+ 1831  cd apps-pups/partner-auth
+ 1832  yarn start
+ 1833  cd apps-pups/partner-auth/
+ 1834  yarn test PartnerAuthenticator.test.ts
+ 1835  yarn test SearchResultsContainer.test.tsx
+ 1836  D
+ 1837  yarn test SearchResultsContainer.test.tsx
+ 1838  git add .
+ 1839  git commit -m "Add test to SearchResults , complete comments from PR\n"
+ 1840  git add .
+ 1841  git commit -m "Add test to SearchResults , complete comments from PR"
+ 1842  git add .
+ 1843  git commit -m "Add test to SearchResults , complete comments from PR"
+ 1844  git add .
+ 1845  git commit -m "Add test to SearchResults , complete comments from PR"
+ 1846  git add .
+ 1847  git commit -m "Add test to SearchResults , complete comments from PR"
+ 1848  git add .
+ 1849  git commit -m "Resolved comments from PR"
+ 1850  git add .
+ 1851  git commit -m "fix comments"
+ 1852  git add .
+ 1853  git commit -m "fix comments"
+ 1854  cd ..
+ 1855  cd user-accounts
+ 1856  cd ..
+ 1857  cd user-accounts
+ 1858  yarn start
+ 1859  git checkout master
+ 1860  git pull opentable master
+ 1861  git push origin master
+ 1862  yarn start
+ 1863  yarn
+ 1864  yarn start
+ 1865  yarn 
+ 1866  yarn start
+ 1867  yarn 
+ 1868  yarn start
+ 1869  yarn test
+ 1870  git checkout -b RLP-16310
+ 1871  git add .
+ 1872  git commit -m "Add toggle to useraccounts"
+ 1873  git add .
+ 1874  git commit -m "Add toggle to useraccounts"
+ 1875  git add .
+ 1876  git commit -m "update version"
+ 1877  cdl Do
+ 1878  cd Documents/Github/react-native
+ 1879  ls
+ 1880  cd AplicacionRepartidorHapsay
+ 1881  ls
+ 1882  expo start
+ 1883  yarn install
+ 1884  yarn 
+ 1885  npm install
+ 1886  npm run start
+ 1887  cd Documents
+ 1888  ls 
+ 1889  cd Github
+ 1890  cd react-native
+ 1891  ls
+ 1892  npm start
+ 1893  cd Documents/Github/ls
+ 1894  cd Documents/Github/
+ 1895  ls
+ 1896  cd job
+ 1897  ls
+ 1898  cd caixa-dashboards-front
+ 1899  git pull origin master
+ 1900  npm start
+ 1901  git pull origin master
+ 1902  npm start
+ 1903  git checkout -b RLP-16308
+ 1904  yarn start
+ 1905  git add .
+ 1906  git commit -m "WIP"
+ 1907  git add .
+ 1908  git commit -m "WIP"
+ 1909  git add .
+ 1910  git commit -m "WIP"
+ 1911  git add .
+ 1912  git commit -m "WIP"
+ 1913  git add .
+ 1914  git commit -m "WIP"
+ 1915  git add .
+ 1916  git commit -m "WIP"
+ 1917  git add .
+ 1918  git commit -m "WIP"
+ 1919  git add .
+ 1920  git commit -m "WIP"
+ 1921  git add .
+ 1922  git commit -m "WIP"
+ 1923  git add .
+ 1924  git commit -m "WIP"
+ 1925  git add .
+ 1926  git commit -m "WIP"
+ 1927  git add .
+ 1928  git commit -m "WIP"
+ 1929  git add .
+ 1930  git commit -m "WIP"
+ 1931  git push origin RLP-16308
+ 1932  git checkout RLP-16310
+ 1933  git add . 
+ 1934  git commit -m "Fix comments"
+ 1935  git add . 
+ 1936  git commit -m "Fix comments"
+ 1937  git add . 
+ 1938  git commit -m "Fix comments"
+ 1939  cd Documents
+ 1940  cd Github
+ 1941  cd react-native
+ 1942  ls
+ 1943  cd AplicacionRepartidorHapsay
+ 1944  git pull origin master
+ 1945  npm install
+ 1946  npm run start
+ 1947  cd ..
+ 1948  ls 
+ 1949  cd front-dashboard
+ 1950  git pull origin develop
+ 1951  cd Do
+ 1952  cd Documents/Github
+ 1953  ls
+ 1954  git clone git@github.com:Touch-ofTech/laurapilates-app.git
+ 1955  cd laurapilates-app
+ 1956  git checkout -b feat/cloud_native
+ 1957  git pull origin cloud_native
+ 1958  git pull origin feat/cloud_native
+ 1959  npm install
+ 1960  ls
+ 1961  cd frontend
+ 1962  ls
+ 1963  npm install
+ 1964  code .
+ 1965  cd ..
+ 1966  npm start
+ 1967  git add .
+ 1968  git commit -m "feat/add api to .env file, fix/point of sale . feat/add searcbar to dashboard"
+ 1969  git push origin feat/cloud_native
+ 1970  cd ..
+ 1971  cd Job
+ 1972  cd gc-monorepo-admin
+ 1973  git pull opentable master
+ 1974  git checkout master
+ 1975  git pull opentable master
+ 1976  git push origin master
+ 1977  cd ..
+ 1978  cd  Do
+ 1979  cd Documents/TOT/
+ 1980  ls
+ 1981  cd laurapilates-app
+ 1982  ls
+ 1983  git remove remote
+ 1984  git remote remove
+ 1985  git remote -v
+ 1986  git remote remove origin
+ 1987  git remote -v
+ 1988  cd frontend
+ 1989  ls
+ 1990  git remote -v
+ 1991  git remote add origin git@github.com:Touch-ofTech/dashboard.git
+ 1992  git checkout master
+ 1993  git checkout -b master
+ 1994  git add .
+ 1995  git commit -m "add new origin"
+ 1996  ls
+ 1997  git push origin master
+ 1998  cd ..
+ 1999  cd laurapilates-app
+ 2000  git add .
+ 2001  git commit -m "delete directories"
+ 2002  git push origin master
+ 2003  cd ..
+ 2004  cd Github
+ 2005  ls
+ 2006  cd front-dashboard
+ 2007  code .
+ 2008  git pull origin develop
+ 2009  npm start
+ 2010  code .
+ 2011  npm start
+ 2012  git add .
+ 2013  git commit -m "feat/Add new slice to redux"
+ 2014  git push origin develop
+ 2015  npm start
+ 2016  cd ..
+ 2017  cd TOT
+ 2018  lsa
+ 2019  cd laurapilates-app
+ 2020  cd frontend
+ 2021  npm start
+ 2022  CD ..
+ 2023  cd ..
+ 2024  ls
+ 2025  cd Github
+ 2026  ls
+ 2027  cd front-dashboard
+ 2028  npm start
+ 2029  cd ..
+ 2030  ls 
+ 2031  cd ..
+ 2032  ls
+ 2033  cd TOT
+ 2034  ls
+ 2035  cd laurapilates-app
+ 2036  npm start
+ 2037  ls
+ 2038  npm start
+ 2039  git add .
+ 2040  git commit -m "Fix login"
+ 2041  git push origin develop
+ 2042  git add .
+ 2043  git commit -m "Add fixes"
+ 2044  git push origin develop
+ 2045  git pull origin master
+ 2046  npm start
+ 2047  npm install
+ 2048  npm start
+ 2049  cd ..
+ 2050  ls
+ 2051  cd ..
+ 2052  ls
+ 2053  cd ..
+ 2054  cd Github
+ 2055  ls
+ 2056  npx create-react-app tailwind --typescript
+ 2057  ls
+ 2058  cd tailwind
+ 2059  code .
+ 2060  cd ..
+ 2061  npx create-react-app tailwind-css --typescript
+ 2062  cd tailwind-css
+ 2063  code .
+ 2064  npx create-react-app tailwind-css-tsx --template typescript
+ 2065  cd ..
+ 2066  npx create-react-app tailwind-css-tsx --template typescript
+ 2067  cd tailwind-css-tsx
+ 2068  code .
+ 2069  npm install tailwindcss
+ 2070  npm install @craco/craco
+ 2071  npm install -D tailwindcss@latest postcss@latest autoprefixer@latest\n
+ 2072  npm install @craco/craco\n
+ 2073  yarn add @craco/craco
+ 2074  yarn start
+ 2075  cd Documents/Github
+ 2076  npx create-react-app figma-sidebar --template typescript
+ 2077  ls
+ 2078  cd figma-sidebar
+ 2079  code .
+ 2080  git remote add origin git@github.com:caarlosdamian/figma-side.git
+ 2081  git push origin master
+ 2082  yarn start
+ 2083  yarn add react-router-dom@6\n
+ 2084  git add .
+ 2085  git commit -m "Add routes"
+ 2086  git push origin master
+ 2087  cd ..
+ 2088  ls
+ 2089  cd ..
+ 2090  ls
+ 2091  cd TOT/caixa-dashboards-front
+ 2092  LS
+ 2093  CD ..
+ 2094  cd ..
+ 2095  ls
+ 2096  cd ..
+ 2097  ls
+ 2098  cd Dexma
+ 2099  ls
+ 2100  cd ..
+ 2101  ls
+ 2102  cd Github
+ 2103  ls
+ 2104  cd c
+ 2105  cd caixa-dashboards-front/ls
+ 2106  cd caixa-dashboards-front/
+ 2107  ls
+ 2108  cd ..
+ 2109  git remote -v
+ 2110  ls
+ 2111  cd caixa-dashboards-front
+ 2112  ls
+ 2113  gite remote -v
+ 2114  git remote -v
+ 2115  cd ..
+ 2116  ls
+ 2117  cd pr
+ 2118  cd projects
+ 2119  ls
+ 2120  cd ..
+ 2121  ls
+ 2122  pwd
+ 2123  cd g
+ 2124  cd gonzalo
+ 2125  ls
+ 2126  cd caixa-dashboards-front
+ 2127  npm install
+ 2128  npm start
+ 2129  git add .
+ 2130  git commit -m "Add excel"
+ 2131  git remote -b
+ 2132  git remote -v
+ 2133  git push dashboard develop
+ 2134  git checkout -b integration
+ 2135  git push dashboard integration
+ 2136  code .
+ 2137  git add .
+ 2138  git commit -m "Add new features"
+ 2139  git pull dashboard develop
+ 2140  cd Documents/Github
+ 2141  ls
+ 2142  cd gonzalo
+ 2143  cd caixa-dashboards-front
+ 2144  git checkout develop
+ 2145  git pull dashboard develop
+ 2146  code .
+ 2147  git add .
+ 2148  git commit -m "Update version"
+ 2149  git push dashboard develop
+ 2150  npm run test
+ 2151  npm start
+ 2152  git add .
+ 2153  git commit -m "Fix sorting"
+ 2154  git push dashboard develop
+ 2155  cd ..
+ 2156  cd versio2
+ 2157  ls
+ 2158  cd front-info
+ 2159  ls
+ 2160  git add .
+ 2161  git commit -m "Fix sorting"
+ 2162  git push origin master
+ 2163  cd ..
+ 2164  cd Github
+ 2165  ls
+ 2166  cd hooks
+ 2167  ls
+ 2168  code .
+ 2169  npm start
+ 2170  cd ..
+ 2171  ls
+ 2172  cd gonzalo
+ 2173  cd versio2
+ 2174  npm start
+ 2175  ls
+ 2176  cd front-info
+ 2177  npm start
+ 2178  git pull origin master
+ 2179  npm start
+ 2180  git pull origin master
+ 2181  npm start
+ 2182  npm i @types/react\n\n
+ 2183  npm start
+ 2184  git add .
+ 2185  git commit -m "Add useMemo,useCallback"
+ 2186  git push origin master
+ 2187  cd Documents/Github/gonzalo/caixa-dashboards-front
+ 2188  git add .
+ 2189  git commit -m "Add new features"
+ 2190  git push dashboard develop
+ 2191  npm start
+ 2192  cd Do
+ 2193  cd Documents/Github/gonzalo/caixa-dashboards-front
+ 2194  code .
+ 2195  git add . 
+ 2196  git commit -m "Add querys"
+ 2197  git push origin develop
+ 2198  git push dashboard develop
+ 2199  git add . 
+ 2200  git commit -m "Add fix"
+ 2201  git push dashboard develop
+ 2202  git add . 
+ 2203  git commit -m "Add fix"
+ 2204  git push dashboard develop
+ 2205  git add . 
+ 2206  git commit -m "Add fix"
+ 2207  git push dashboard develop
+ 2208  git add . 
+ 2209  git commit -m "Add fix"
+ 2210  git push dashboard develop
+ 2211  git add . 
+ 2212  git commit -m "Add fix"
+ 2213  git push dashboard develop
+ 2214  git add . 
+ 2215  git commit -m "Add fix"
+ 2216  git push dashboard develop
+ 2217  git pull origin develop
+ 2218  git add . 
+ 2219  git commit -m "Add fix"
+ 2220  git pull origin develop
+ 2221  git push dashboard develop
+ 2222  npm install @reduxjs/toolkit\n
+ 2223  npm start
+ 2224  npm install
+ 2225  npm start
+ 2226  git add .
+ 2227  git commit -m "Add Context , fix desing "
+ 2228  git push dashboard develop
+ 2229  npm start
+ 2230  cd ..
+ 2231  ls
+ 2232  cd ..
+ 2233  ls
+ 2234  cd ..
+ 2235  ls
+ 2236  cd Dexma
+ 2237  ls
+ 2238  git clone https://gitlab.vision4.com.ar/DEXMA/infra-dashboards-front.git
+ 2239  ls
+ 2240  cd infra-dashboards-front
+ 2241  ls
+ 2242  npm install
+ 2243  code .
+ 2244  npm start
+ 2245  ls
+ 2246  cd Documents
+ 2247  cd Github
+ 2248  ls
+ 2249  cd gonzalo
+ 2250  ls
+ 2251  cd caixa-dashboards-front
+ 2252  ls
+ 2253  git pull dashboard developo
+ 2254  git pull dashboard develop
+ 2255  npm start
+ 2256  ls
+ 2257  cd Documents
+ 2258  ls
+ 2259  cd Github
+ 2260  cd caixa-dashboards-front
+ 2261  ls
+ 2262  npm start
+ 2263  code .
+ 2264  git dashboard develop
+ 2265  git remote -v
+ 2266  git pull dashboard develop
+ 2267  npm start
+ 2268  npm install
+ 2269  git add .
+ 2270  git commit -m "fix imports"
+ 2271  git push dashboard develop
+ 2272  npm start
+ 2273  cd ..
+ 2274  ls
+ 2275  cd testing
+ 2276  ls
+ 2277  cd ..
+ 2278  mkdir prueba
+ 2279  mkdir prueba2
+ 2280  cd prueba2
+ 2281  ls
+ 2282  git clone https://gitlab.vision4.com.ar/DEXMA/caixa-dashboards-front.git
+ 2283  git checkout -b develop
+ 2284  cd caixa-dashboards-front
+ 2285  git checkout -b develop
+ 2286  git pull origin develop
+ 2287  code .
+ 2288  npm install
+ 2289  npm start
+ 2290  git pull origin develop
+ 2291  cd ..
+ 2292  cd Job
+ 2293  ls
+ 2294  cd gc-monorepo-admin
+ 2295  git pull opentable master
+ 2296  git push origin master
+ 2297  git checkout -b RLP-16067
+ 2298  npm start
+ 2299  cd Job
+ 2300  cd gc-monorepo-admin
+ 2301  ls
+ 2302  code .
+ 2303  cd apps-pups/user-accounts
+ 2304  yarn start
+ 2305  cd ..
+ 2306  ls
+ 2307  cd partner-auth
+ 2308  yarn start
+ 2309  git commit -m "Add UserSearchHook"
+ 2310  git add .
+ 2311  git commit -m "Add UserSearchHook"
+ 2312  git add .
+ 2313  git commit -m "Add UserSearchHook"
+ 2314  git add .
+ 2315  git commit -m "Add UserSearchHook"
+ 2316  git add .
+ 2317  git commit -m "Add UserSearchHook"
+ 2318  git add .
+ 2319  git commit -m "Add UserSearchHook"
+ 2320  git add .
+ 2321  git commit -m "Add UserSearchHook"
+ 2322  git checkout master
+ 2323  git pull opentable master
+ 2324  git checkout -b RLP-16412\n
+ 2325  git add .
+ 2326  git commit -m "Partner auth design feedback"
+ 2327  yarn test 
+ 2328  cd apps-pups/partner-auth
+ 2329  yarn test
+ 2330  git add .
+ 2331  git commit -m "Update version"
+ 2332  git add .
+ 2333  git commit -m "Update version"
+ 2334  git add .
+ 2335  git commit -m "Add 0.5px border to list item"
+ 2336  yarn test
+ 2337  gti checkout -b RLP-16417\n
+ 2338  git checkout -b RLP-16417\n
+ 2339  git add .
+ 2340  git commit -m "Add query sort param to request update version"
+ 2341  git pull opentable master
+ 2342  git add .
+ 2343  git commit -m "update version"
+ 2344  npm start
+ 2345  cd ..
+ 2346  cd Documents
+ 2347  ls
+ 2348  cd TOT
+ 2349  mkdir hap-Job
+ 2350  cd hap-Job
+ 2351  git clone git@gitlab.com:hapsay/hapsay.git
+ 2352  ls
+ 2353  cd hapsay
+ 2354  ls
+ 2355  cd adminhapsay
+ 2356  ls
+ 2357  yarn i
+ 2358  ls
+ 2359  npm install
+ 2360  ls
+ 2361  npm start
+ 2362  cd ..
+ 2363  ls
+ 2364  cd hapsay
+ 2365  ls
+ 2366  cd ..
+ 2367  hapsayVendedor
+ 2368  ls
+ 2369  cd ..
+ 2370  ls
+ 2371  cd..
+ 2372  cd ..
+ 2373  ls
+ 2374  git clone git@gitlab.com:hapsay/hapsay.git
+ 2375  ls
+ 2376  cd hapsay
+ 2377  ls
+ 2378  cd hapsayRepartidor
+ 2379  ls
+ 2380  cd ..
+ 2381  cd hapsayRepartidor
+ 2382  ls
+ 2383  cd ..
+ 2384  cd hapsayVendedor
+ 2385  ls
+ 2386  npm install
+ 2387  npm start
+ 2388  cd Documents/TOT/hap-Job
+ 2389  ls
+ 2390  cd hapsay
+ 2391  ls
+ 2392  cd adminhapsay
+ 2393  npm start
+ 2394  cd ..
+ 2395  ls
+ 2396  cd carlos.damianencora.com
+ 2397  ls
+ 2398  cd Documents/TOT/hap-Job
+ 2399  ls
+ 2400  cd hapsay
+ 2401  ls
+ 2402  cd hapsay
+ 2403  ls
+ 2404  npm install
+ 2405  la
+ 2406  ls
+ 2407  npm start
+ 2408  cd Documents/TOT/hap-Job
+ 2409  ls
+ 2410  cd hapsay
+ 2411  ls
+ 2412  hapsayVendedor
+ 2413  npm start
+ 2414  cd ..
+ 2415  cd hapsay
+ 2416  ls
+ 2417  npm start
+ 2418  ls
+ 2419  npm start
+ 2420  ls
+ 2421  npm start
+ 2422  npm install
+ 2423  npm start
+ 2424  npm install react-redux\n
+ 2425  ls
+ 2426  rm package
+ 2427  rm package-lock.json
+ 2428  rm package.json
+ 2429  ls
+ 2430  cd caixa-dashboards-front
+ 2431  ls
+ 2432  npm install react-redux\n
+ 2433  npm install @reduxjs/toolkit\n
+ 2434  npm start
+ 2435  cd caixa-dashboards-front
+ 2436  ls
+ 2437  git add .
+ 2438  git commit -m "Add redux to app manage global state"
+ 2439  git add .
+ 2440  git commit -m "Add redux to app manage global state"
+ 2441  git push dashboard develop
+ 2442  git checkout -b redux
+ 2443  git push dashboard redux 
+ 2444  git pull dashboard develop
+ 2445  npm start
+ 2446  git add .
+ 2447  git commit -m "Add redux to app manage global state"
+ 2448  git push dashboard redux 
+ 2449  git checkout develop
+ 2450  git add .
+ 2451  git push dashboard develop
+ 2452  git pull dashboard develop
+ 2453  git add .
+ 2454  git commit -m "Change top directory"
+ 2455  git pull dashboard develop
+ 2456  git add .
+ 2457  git commit -m "merge conflics"
+ 2458  git push dashboard develop
+ 2459  ls
+ 2460  cd apps-pups/partner-auth
+ 2461  yarn start
+ 2462  cd caixa-dashboards-front
+ 2463  npm start
+ 2464  yarn start
+ 2465  git checkout master
+ 2466  git pull opentable master
+ 2467  git push origin master
+ 2468  git checkout -b RLP-16419
+ 2469  yarn start
+ 2470  git add .
+ 2471  git commit -m "Change subtitle fo not matches found error"
+ 2472  cd apps-pups/partner-auth
+ 2473  yarn test
+ 2474  git pull dashboard develop
+ 2475  npm start
+ 2476  cd caixa-dashboards-front
+ 2477  git add . 
+ 2478  git commit -m "Add tags to redux"
+ 2479  git push dashboard develop 
+ 2480  node -v
+ 2481  git checkout RLP-16067
+ 2482  yarn start
+ 2483  cd ..
+ 2484  cd user-accounts
+ 2485  yarn start
+ 2486  cd Documents/Github/
+ 2487  mkdir uriel
+ 2488  cd uriel
+ 2489  git clone git@github.com:uGonzalez8773/front-dashboard-1.git
+ 2490  ls 
+ 2491  cd front-dashboard-1
+ 2492  npm install
+ 2493  git checkout -b FD-23
+ 2494  git pull origin FD-23
+ 2495  npm start
+ 2496  npm install
+ 2497  npm start
+ 2498  code .
+ 2499  npm start
+ 2500  git add .
+ 2501  git commit -m "Fix desing"
+ 2502  git push origin FD-23
+ 2503  nvm
+ 2504  nvm -v
+ 2505  nvm install v16
+ 2506  node -v 
+ 2507  nvm i 16.13.0
+ 2508  node -v 
+ 2509  yarn start
+ 2510  cd caixa-dashboards-front
+ 2511  ls
+ 2512  git pull dashboard develop
+ 2513  npm start
+ 2514  cd caixa-dashboards-front
+ 2515  git add .
+ 2516  git commit -m "Add some fixes change version"
+ 2517  git push dashboard develop
+ 2518  cd Documents/Github/gonzalo/versio2/front-info
+ 2519  git add .
+ 2520  git commit -m "Add lates version"
+ 2521  git push origin master
+ 2522  git add .
+ 2523  git commit -m "Create search box component with search results"
+ 2524  cd ..
+ 2525  cd user-accounts
+ 2526  git add .
+ 2527  git commit -m "Create search box component with search results"
+ 2528  git add .
+ 2529  git commit -m "Create search box component with search results"
+ 2530  git add .
+ 2531  git commit -m "Create search box component with search results"
+ 2532  git add .
+ 2533  git commit -m "Create search box component with search results"
+ 2534  git add .
+ 2535  git commit -m "Create search box component with search results"
+ 2536  git add .
+ 2537  git commit -m "Create search box component with search results"
+ 2538  git add .
+ 2539  git commit -m "Create search box component with search results"
+ 2540  git add .
+ 2541  git commit -m "Create search box component with search results"
+ 2542  git add .
+ 2543  git commit -m "Create search box component with search results"
+ 2544  yarn test
+ 2545  yarn jest -u
+ 2546  git add .
+ 2547  git commit -m "Update snapshots and update version"
+ 2548  yarn start
+ 2549  ls
+ 2550  cd Documents/TOT/hap-Job
+ 2551  code .
+ 2552  ls
+ 2553  cd hapsay
+ 2554  ls
+ 2555  cd adminhapsay
+ 2556  ls
+ 2557  npm install
+ 2558  ls
+ 2559  cd hapsay
+ 2560  ls
+ 2561  npm start
+ 2562  cd ..
+ 2563  cd Job
+ 2564  ls
+ 2565  cd gc-monorepo-admin
+ 2566  ls
+ 2567  code .
+ 2568  git add .
+ 2569  git commit -m "Remove hook not in use"
+ 2570  git push origin RLP-16067
+ 2571  ls
+ 2572  cd  ..
+ 2573  ls
+ 2574  cd hapsayRepartidor
+ 2575  ls
+ 2576  cd ..
+ 2577  ls
+ 2578  cd  ..
+ 2579  ls
+ 2580  cd Github
+ 2581  ls
+ 2582  cd pr
+ 2583  cd AplicacionRepartidorHapsay
+ 2584  ls
+ 2585  npm install
+ 2586  npm start
+ 2587  ls
+ 2588  cd App
+ 2589  ls
+ 2590  cd ..
+ 2591  ls
+ 2592  yarn start
+ 2593  it pull origin master
+ 2594  git pull origin master
+ 2595  yarn 
+ 2596  npm start
+ 2597  cd ..
+ 2598  cd TOT
+ 2599  cd hap-Job
+ 2600  ls
+ 2601  cd hapsay
+ 2602  ls
+ 2603  cd ..
+ 2604  cd Documents/TOT/hap-Job
+ 2605  cd hapsay
+ 2606  ls
+ 2607  cd hapsay
+ 2608  ls
+ 2609  npm start
+ 2610  ls
+ 2611  cd Documents
+ 2612  ls
+ 2613  cd Github
+ 2614  ls
+ 2615  ls cd youtube
+ 2616  cd youtube
+ 2617  ls
+ 2618  code .
+ 2619  yarn run test SearchList.test.tsx
+ 2620  yarn start
+ 2621  yarn run test SearchList.test.tsx
+ 2622  yarn run test -u
+ 2623  yarn run test SearchList.test.tsx
+ 2624  yarn run test -u SearchList.test.tsx 
+ 2625  git add .
+ 2626  git commit -m "Add componente SearchList add test to component"
+ 2627  git add .
+ 2628  git commit -m "Add componente SearchList add test to component"
+ 2629  git add .
+ 2630  git commit -m "Add componente SearchList add test to component"
+ 2631  git add .
+ 2632  git commit -m "Fix some identation"
+ 2633  git add .
+ 2634  git commit -m "Remove some formating coode"
+ 2635  git push origin RLP-16067
+ 2636  yarn test -u
+ 2637  git add .
+ 2638  git commit -m "Fix comments, update tests"
+ 2639  git add .
+ 2640  git commit -m "Fix comments, update tests"
+ 2641  git push origin RLP-16067
+ 2642  cd ..
+ 2643  ls
+ 2644  cd gonzalo
+ 2645  ls
+ 2646  cd ..
+ 2647  ls
+ 2648  mkdir gonz-responsive
+ 2649  cd gonz-responsive
+ 2650  git@github.com:kiupets/front-info.git 
+ 2651  git clone git@github.com:kiupets/front-info.git
+ 2652  ls
+ 2653  cd front-info
+ 2654  git checkout -b RESPONSIVE-DASH
+ 2655  git pull origin RESPONSIVE-DASH
+ 2656  npm install
+ 2657  npm start
+ 2658  code .
+ 2659  npm start
+ 2660  git add .
+ 2661  git commit -m "Add some fix desing"
+ 2662  git push origin RESPONSIVE-DASH
+ 2663  cd ..
+ 2664  ls
+ 2665  cd ..
+ 2666  ls
+ 2667  cd TOT
+ 2668  ls
+ 2669  cd hap-Job
+ 2670  cd ..
+ 2671  ls
+ 2672  cd Github
+ 2673  ls
+ 2674  cd AplicacionRepartidorHapsay
+ 2675  npm start
+ 2676  ls
+ 2677  cd Documents
+ 2678  ls
+ 2679  cd Github
+ 2680  ls
+ 2681  cd ..
+ 2682  ls
+ 2683  cd Documents
+ 2684  ls
+ 2685  cd TOT
+ 2686  cd hap-Job
+ 2687  ls
+ 2688  cd hapsay
+ 2689  ls
+ 2690  cd hpsay
+ 2691  cd hapsay
+ 2692  npm start
+ 2693  cd ..
+ 2694  ls
+ 2695  cd TOT
+ 2696  ls
+ 2697  cd hap-Job
+ 2698  ls
+ 2699  cd hapsay
+ 2700  ls
+ 2701  cd hapsayVendedor
+ 2702  npm start
+ 2703  cd 
+ 2704  cd Documents
+ 2705  cd TOT/
+ 2706  cd hap-Job
+ 2707  ls
+ 2708  cd hapsay
+ 2709  ls
+ 2710  cd adminhapsay
+ 2711  ls
+ 2712  npm start
+ 2713  cd Documents
+ 2714  ls
+ 2715  cd TOT
+ 2716  cd hap-Job
+ 2717  ls
+ 2718  cd ..
+ 2719  ls
+ 2720  cd ..
+ 2721  ls
+ 2722  cd Github
+ 2723  ls
+ 2724  cd 
+ 2725  cd Applications
+ 2726  cd..
+ 2727  cd ..
+ 2728  ls
+ 2729  cd Do
+ 2730  cd Documents
+ 2731  ls
+ 2732  cd Github
+ 2733  ls
+ 2734  cd AplicacionRepartidorHapsay
+ 2735  ls
+ 2736  npm start
+ 2737  cd Documents/Github/AplicacionRepartidorHapsay
+ 2738  npm start
+ 2739  ls
+ 2740  npm start
+ 2741  cd ..
+ 2742  ls
+ 2743  cd ..
+ 2744  cd ls
+ 2745  cd ..
+ 2746  cd Documents/TOT/hap-Job/hapsay/hapsay
+ 2747  npm start
+ 2748  cd apps-pups/user-accounts
+ 2749  yarn test
+ 2750  yarn test -u
+ 2751  yarn test
+ 2752  git add .
+ 2753  git commit -m "Fix PR comments"
+ 2754  git add .
+ 2755  git commit -m "Fix PR comments"
+ 2756  git push origin RLP-16067
+ 2757  git checkout RLP-16419\n\n
+ 2758  git pull opentable master
+ 2759  cd ..
+ 2760  cd partner-auth
+ 2761  git add .
+ 2762  git commit -m "Ready to deploy , change version"
+ 2763  git push origin RLP-16419
+ 2764  cd caixa-dashboards-front
+ 2765  git pull dashboard develop
+ 2766  npm install
+ 2767  git remote -v
+ 2768  npm install
+ 2769  npm start
+ 2770  git add .
+ 2771  git commit -m "Hot Fix issues #52 ,#53"
+ 2772  git push dashboard develop
+ 2773  cd Documents/Github
+ 2774  npx create-react-app pre-commit-check
+ 2775  cd pre-commit-check
+ 2776  code .
+ 2777  yarn add eslint -D
+ 2778  npx eslint --init
+ 2779  npm start
+ 2780  cd ..
+ 2781  ls
+ 2782  cd front-dashboard
+ 2783  git remote -v
+ 2784  git pull origin develop
+ 2785  code .
+ 2786  npm install eslint -D
+ 2787  npx eslint --init
+ 2788  npm install eslint -D
+ 2789  npx eslint --init
+ 2790  npm start
+ 2791  npm install prettier eslint-plugin-prettier eslint-config-prettier babel-eslint
+ 2792  npm install prettier eslint-plugin-prettier eslint-config-prettier babel-eslint - D
+ 2793  npm install prettier eslint-plugin-prettier eslint-config-prettier babel-eslint -D
+ 2794  npm start
+ 2795  npm install eslint -D
+ 2796  npx eslint --init
+ 2797  git checkout master
+ 2798  git pull opentable master
+ 2799  gti checkout -b RLP16418
+ 2800  git checkout -b RLP16418
+ 2801  yarn start
+ 2802  cd ..
+ 2803  cd..
+ 2804  cd ..
+ 2805  cd Documents
+ 2806  ls
+ 2807  cd Github
+ 2808  cd AplicacionRepartidorHapsay
+ 2809  ls
+ 2810  npm start
+ 2811  ls
+ 2812  cd Documents
+ 2813  cd TOT
+ 2814  ls
+ 2815  cd hap-Job
+ 2816  ls
+ 2817  cd hapsay
+ 2818  ls
+ 2819  cd hasayVendedor
+ 2820  cd hapsayVendedor
+ 2821  ls
+ 2822  npm start
+ 2823  cd Documents/TOT/hap-Job/hapsay/hapsay
+ 2824  npm start
+ 2825  yarn start
+ 2826  cd apps-pups/partner-auth/
+ 2827  yarn start
+ 2828  yarn test Error.test.tsx
+ 2829  yarn test
+ 2830  yarn test PartnerAuthenticator.test.tsx
+ 2831  yarn test
+ 2832  yarn test PartnerAuthContainer.test.tsx
+ 2833  yarn test
+ 2834  ls
+ 2835  cd Documents
+ 2836  cd Github
+ 2837  ls
+ 2838  git clone git@github.com:opentable/gc-monorepo-admin.git
+ 2839  cd gc-monorepo-admin
+ 2840  git checkout master
+ 2841  git stash
+ 2842  git checkout master
+ 2843  git pull origin master
+ 2844  code .
+ 2845  cd apps-pups/partner-auth
+ 2846  yarn start
+ 2847  yarn test
+ 2848  yarn test PartnerAuthenticator.test.tsx
+ 2849  yarn test
+ 2850  yarn start
+ 2851  git add .
+ 2852  git commit -m "Add Error componente , fix desing issues Add/Update tests"
+ 2853  git add .
+ 2854  git commit -m "Add Error componente , fix desing issues Add/Update tests"
+ 2855  git add .
+ 2856  git commit -m "Add Error componente , fix desing issues Add/Update tests"
+ 2857  git add .
+ 2858  git commit -m "Add Error componente , fix desing issues Add/Update tests"
+ 2859  git add .
+ 2860  git commit -m "Add Error componente , fix desing issues Add/Update tests"
+ 2861  git pull origin develop
+ 2862  npm start
+ 2863  npm install eslint -D
+ 2864  nmpx eslint --init
+ 2865  npm eslint --init
+ 2866  npx eslint --init
+ 2867  npm start
+ 2868  npm install prettier eslint-plugin-prettier eslint-config-prettier babel-eslint
+ 2869  npm install prettier eslint-plugin-prettier eslint-config-prettier babel-eslint -D
+ 2870  npm start
+ 2871  npm install eslint -D
+ 2872  npm install prettier eslint-plugin-prettier eslint-config-prettier babel-eslint -D
+ 2873  npx eslint --init
+ 2874  npm start
+ 2875  npm i -S prop-types
+ 2876  npm start
+ 2877  npm i -S react-router
+ 2878  git pull origin develop
+ 2879  git checkout -b eslint
+ 2880  npm install --save-dev eslint prettier husky lint-staged
+ 2881  npx eslint --init
+ 2882  npx eslint .
+ 2883  npm install --save-dev eslint-config-prettier\n
+ 2884  npx eslint .
+ 2885  npx mrm lint-staged
+ 2886  git add .
+ 2887  git commit -m "Feat/Add eslint config"
+ 2888  git add .
+ 2889  git commit -m "Feat/Add eslint config"
+ 2890  git add .
+ 2891  git commit -m "Feat/Add eslint config"
+ 2892  git add .
+ 2893  git commit -m "Feat/Add eslint config"
+ 2894  git add .
+ 2895  git commit -m "Feat/Add eslint config"
+ 2896  git add .
+ 2897  git commit -m "Feat/Add eslint config"
+ 2898  git add .
+ 2899  git commit -m "Feat/Add eslint config"
+ 2900  git add .
+ 2901  git commit -m "Feat/Add eslint config"
+ 2902  git status
+ 2903  git commit -m "Feat/Add eslint config"
+ 2904  git status
+ 2905  git add .
+ 2906  git commit -m "Feat/Add eslint config"
+ 2907  git add .
+ 2908  git commit -m "Feat/Add eslint config"
+ 2909  git add .
+ 2910  git commit -m "Feat/Add eslint config"
+ 2911  git add .
+ 2912  git commit -m "Feat/Add eslint config"
+ 2913  git add .
+ 2914  git commit -m "Feat/Add eslint config"
+ 2915  git add .
+ 2916  git commit -m "Feat/Add eslint config"
+ 2917  git add .
+ 2918  git commit -m "Feat/Add eslint config"
+ 2919  npx eslint --init
+ 2920  git add .
+ 2921  git commit -m "Feat/Add eslint config"
+ 2922  git add .
+ 2923  git commit -m "Feat/Add eslint config"
+ 2924  git add .
+ 2925  git commit -m "Feat/Add eslint config"
+ 2926  npm start
+ 2927  git add .
+ 2928  git commit -m "test"
+ 2929  git add .
+ 2930  git commit -m "fixing eslint add rules"
+ 2931  npm start
+ 2932  npm i -S react-router
+ 2933  npm i -S redux
+ 2934  npm start
+ 2935  git add .
+ 2936  git commit -m "Fix all componentes add eslint config and pre-commit"
+ 2937  git push origin eslint
+ 2938  git commit -m "testing one commit "
+ 2939  git add .
+ 2940  git commit -m "testing one commit "
+ 2941  git push origin eslint
+ 2942  git add . 
+ 2943  git commit -m "testing error 1"
+ 2944  git add . 
+ 2945  git commit -m "testing error 1"
+ 2946  git add . 
+ 2947  git commit -m "testing error 2"
+ 2948  git add .
+ 2949  git commit -m "Testing error 3"
+ 2950  git push origin eslint
+ 2951  git add .
+ 2952  git commit -m "Testing Error 4"
+ 2953  git add .
+ 2954  git commit -m "Testing Error 5"
+ 2955  git push origin eslint
+ 2956  git add .
+ 2957  git commit -m "Deleting eslint cache"
+ 2958  git push origin eslint
+ 2959  ls
+ 2960  cd Do
+ 2961  cd Documents/Github
+ 2962  ls
+ 2963  mkfir eslint-test
+ 2964  mkdir eslint-test
+ 2965  cd eslint-test
+ 2966  git clone --branch eslint git@github.com:caarlosdamian/front-dashboard.git
+ 2967  cd front-dashboard
+ 2968  npm install
+ 2969  git clone 
+ 2970  code .
+ 2971  git add .
+ 2972  git commit -m "Test eslint "
+ 2973  git push origin eslint 
+ 2974  git add .
+ 2975  git commit -m "Testing eslint error"
+ 2976  git add .
+ 2977  git commit -m "Testing eslint 23"
+ 2978  cd ..
+ 2979  cd eslint-test
+ 2980  ls
+ 2981  git clone --branch eslint git@github.com:caarlosdamian/front-dashboard.git
+ 2982  cd front-dashboard
+ 2983  npm install
+ 2984  code .
+ 2985  yarn test
+ 2986  git add .
+ 2987  git commit -m "Fix some estructure add test"
+ 2988  git push origin eslint
+ 2989  npm start
+ 2990  git add .
+ 2991  git commit -m "Prueba de directorio"
+ 2992  git add .
+ 2993  git commit -m "Prueba de directorio"
+ 2994  git add .
+ 2995  git commit -m "Prueba de directorio"
+ 2996  git add .
+ 2997  git commit -m "Prueba de directorio"
+ 2998  git push origin eslint
+ 2999  git checkout -b master
+ 3000  git pull origin master
+ 3001  git checkout -b develop
+ 3002  git pull origin master
+ 3003  git push origin develop
+ 3004  git pull origin develop
+ 3005  git pull origin master
+ 3006  git checkout - develop
+ 3007  git pull origin master
+ 3008  git pull origin develop
+ 3009  git push origin develop
+ 3010  npm start
+ 3011  git pull opentable master 
+ 3012  git pull origin  master 
+ 3013  git add .
+ 3014  yarn test
+ 3015  git commit -m "Fix: comments on PR , update version to 18"
+ 3016  yarn start
+ 3017  cd Documents
+ 3018  ls
+ 3019  cd Github
+ 3020  mkdir github-course
+ 3021  ls
+ 3022  cd github-course
+ 3023  touch hola.tsxt
+ 3024  ls
+ 3025  git add .
+ 3026  rm hola.tsxt
+ 3027  ld
+ 3028  ls
+ 3029  touch hola.txt
+ 3030  ls
+ 3031  vi hola.txt
+ 3032  cat hola.txt
+ 3033  git init 
+ 3034  ls -a
+ 3035  git status
+ 3036  git add hola.txt
+ 3037  git status
+ 3038  touch file.txt
+ 3039  touch scrip.py
+ 3040  git status
+ 3041  git add .
+ 3042  git status
+ 3043  git rm file.txt
+ 3044  git status
+ 3045  git rm file.txt
+ 3046  git rm -f file.txt
+ 3047  git status
+ 3048  ls
+ 3049  toouch file.txt
+ 3050  touch file.txt
+ 3051  git add .
+ 3052  git status
+ 3053  git rm --cached file.txt
+ 3054  ls
+ 3055  git status
+ 3056  git add .
+ 3057  git commit -help
+ 3058  git commit 
+ 3059  git commit --help
+ 3060  git commit -m "init commit"
+ 3061  git status
+ 3062  git log
+ 3063  ls
+ 3064  rm file .txt
+ 3065  ls
+ 3066  rm file.txt
+ 3067  git commit -m "Add new functionality"
+ 3068  git add .
+ 3069  git commit -m "Add new functionality"
+ 3070  git log
+ 3071  git checkout 1ed2b07036514998f59f5f8b01ad9622126f5332
+ 3072  git log
+ 3073  git checkout master
+ 3074  touch hkj.hs
+ 3075  git add .
+ 3076  git commit -m "testing"
+ 3077  git log
+ 3078  git revert 1ed2b07036514998f59f5f8b01ad9622126f5332
+ 3079  git log
+ 3080  git log --oneline
+ 3081  git reset --hard db7c7a1
+ 3082  git log --oneline
+ 3083  ls
+ 3084  tocuhc ignorar.txt
+ 3085  touch ignorar.txt
+ 3086  touch .gitignore
+ 3087  ls
+ 3088  vi .gitignore
+ 3089  git status
+ 3090  ls
+ 3091  rm hola.txt
+ 3092  ls
+ 3093  rm ignorar.txt
+ 3094  rm scrip.py
+ 3095  git status
+ 3096  git branch dev
+ 3097  git checkout dev
+ 3098  git checkout master
+ 3099  git branch -a
+ 3100  git branch
+ 3101  git checkout -b bugs
+ 3102  git branch -d bugs
+ 3103  git checkout master
+ 3104  git branch -d bugs
+ 3105  git checkout develop
+ 3106  git branch
+ 3107  git add .
+ 3108  git commit -m "testng branches"
+ 3109  git history
+ 3110  git --help
+ 3111  git log --help
+ 3112  git log --pretty=format:"%h - %an, %ar : %s"
+ 3113  touch versio,txt
+ 3114  rm versio,txt
+ 3115  touch version.txt
+ 3116  vi version.txt
+ 3117  git add .
+ 3118  git commit -m "Realease v1.0"
+ 3119  git checkout master
+ 3120  ls
+ 3121  git merge develop
+ 3122  git merge dev
+ 3123  ls
+ 3124  git log
+ 3125  git remote add origin git@github.com:caarlosdamian/github-course.git
+ 3126  git push origin master
+ 3127  git checkout dev
+ 3128  touch prueba.txt
+ 3129  git add .
+ 3130  git commit -m "trying pull request"
+ 3131  git push origin dev
+ 3132  git push --help
+ 3133  git checkout master
+ 3134  git push origin --delete dev
+ 3135  cd caixa-dashboards-front
+ 3136  git log
+ 3137  git push dashboard develop
+ 3138  ls
+ 3139  cd Job
+ 3140  ;ls
+ 3141  mkdir emely
+ 3142  cd emely
+ 3143  ls
+ 3144  git clone git@github.com:emgiraldo9/gc-monorepo-admin.git
+ 3145  ls
+ 3146  cd gc
+ 3147  cd gc-monorepo-admin
+ 3148  yarn 
+ 3149  cd apps-pups/user-accounts
+ 3150  yarn 
+ 3151  git checkout -b 15404.1
+ 3152  git pull origin 15404.1
+ 3153  yarn start
+ 3154  cd Job/emely
+ 3155  ls
+ 3156  cd gc-monorepo-admin
+ 3157  ls
+ 3158  code ,
+ 3159  code .
+ 3160  git pull origin 15404.1
+ 3161  cd ..
+ 3162  ls
+ 3163  cd Do
+ 3164  cd Documents
+ 3165  cd Github/
+ 3166  cd job
+ 3167  ls
+ 3168  cd caixa-dashboards-front
+ 3169  git remote -v
+ 3170  cd ..
+ 3171  ls
+ 3172  mkdir gonzalo
+ 3173  ls
+ 3174  cd gonzalo
+ 3175  git clone --branch GRID-DASHBOARD git@github.com:kiupets/front-info.git
+ 3176  ls
+ 3177  cd front-info
+ 3178  ls
+ 3179  git pull origin GRID_DASHBOARD
+ 3180  npm install
+ 3181  npm start
+ 3182  ls
+ 3183  cd ..
+ 3184  ls
+ 3185  cd ..
+ 3186  cd Documents/Github/
+ 3187  ls
+ 3188  AplicacionRepartidorHapsay
+ 3189  npm start
+ 3190  cd Documents/Github
+ 3191  ls
+ 3192  cd ..
+ 3193  cd TOT/hap-Job/hapsay/hapsay
+ 3194  npm start
+ 3195  ls 
+ 3196  cd Documents/TOT
+ 3197  ls
+ 3198  cd hap-Job/hapsay/hapsayVendedor
+ 3199  npm start
+ 3200  cd Documents/TOT/hap-Job/hapsay/hapsay
+ 3201  npm start
+ 3202  git pull origin master
+ 3203  npm install
+ 3204  npm start
+ 3205  cd ..
+ 3206  ls
+ 3207  cd TOT
+ 3208  ls
+ 3209  cd hap-Job/hapsay/hapsayVendedor
+ 3210  git pull origin master
+ 3211  npm start
+ 3212  cd Documents
+ 3213  cd Github
+ 3214  ls
+ 3215  cd AplicacionRepartidorHapsay
+ 3216  git pull origin master
+ 3217  npm start
+ 3218  cd Job/emely
+ 3219  ls
+ 3220  gc-monorepo-admin
+ 3221  yarn start
+ 3222  ls
+ 3223  cd apps-pups/user-accounts
+ 3224  yarn start
+ 3225  cd ,,
+ 3226  cd ..
+ 3227  cd gc-monorepo-admin
+ 3228  git checkout master
+ 3229  git pull opentable master
+ 3230  code .
+ 3231  git checkout -b version-bump
+ 3232  cd ..
+ 3233  git status
+ 3234  git add .
+ 3235  git status
+ 3236  git commit -m "Version bump to user-accounts / partner-auth"
+ 3237  git checkout master
+ 3238  git pull opentable master
+ 3239  git push origin master
+ 3240  ls 
+ 3241  cd Documents
+ 3242  ls
+ 3243  cd Github
+ 3244  mkdir reactSchoool
+ 3245  cd reactSchoool
+ 3246  ls
+ 3247  git init . 
+ 3248  ls
+ 3249  ls -a
+ 3250  ls
+ 3251  ls -a
+ 3252  cd .git 
+ 3253  ls
+ 3254  cat config
+ 3255  cat HEAD
+ 3256  cd ..
+ 3257  git branch
+ 3258  git branch -a
+ 3259  git branch
+ 3260  touch primerArchivo.txt
+ 3261  ls
+ 3262  pwd 
+ 3263  ls
+ 3264  git status 
+ 3265  git add primerArchivo.txt
+ 3266  git status
+ 3267  pwd
+ 3268  git rm --cached primerArchivo.txt
+ 3269  git status
+ 3270  touch segunArchivo.txt
+ 3271  touch tercerArchivo.txt
+ 3272  ls
+ 3273  git status
+ 3274  git add primerArchivo.txt
+ 3275  git status
+ 3276  git add .
+ 3277  git status
+ 3278  ls
+ 3279  rm tercerArchivo.txt
+ 3280  ls
+ 3281  git status
+ 3282  git add . 
+ 3283  git status
+ 3284  git commit 
+ 3285  git log 
+ 3286  git log
+ 3287  touch tercerArchivo.txt
+ 3288  ls 
+ 3289  git status
+ 3290  rm :
+ 3291  ls
+ 3292  git config --global
+ 3293  git log
+ 3294  git log --pretty=format:"%h - %an, %ar : %s"\n
+ 3295  git log --help
+ 3296  git commit --help
+ 3297  git commit 
+ 3298  git add .
+ 3299  git commit
+ 3300  git status
+ 3301  git commit -m "feat: Se agrego nuevo archivo de configuracion"
+ 3302  git log
+ 3303  touch archivoCuatro.txt
+ 3304  touch archivoCinco.txt
+ 3305  ls
+ 3306  git add .
+ 3307  git commit -m "fix:Se elimino un big en preprod"
+ 3308  touch archivoSeis.txt
+ 3309  git add .
+ 3310  git commit -m "docs: se agrego una descripsion nueva en el Readme"
+ 3311  git log
+ 3312  git checkout 879977abc3d09c536baa702169e28660c90289e7
+ 3313  git log
+ 3314  ls
+ 3315  git checkout master
+ 3316  git log
+ 3317  ls
+ 3318  vi primerArchivo.txt
+ 3319  git add .
+ 3320  git commit -m "feat:se agrego nuevo texto en el archivo uno"
+ 3321  ls
+ 3322  git log 
+ 3323  git revert 826ea242fe5a33541c0a70619ea3ebd232822b49
+ 3324  git log
+ 3325  git reset 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3326  git log
+ 3327  git reset 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3328  git log
+ 3329  git status
+ 3330  git log --oneline
+ 3331  git reset --soft 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3332  git status
+ 3333  git reset -soft 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3334  git reset --hard 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3335  git status
+ 3336  git log
+ 3337  git reset --hard 826ea242fe5a33541c0a70619ea3ebd232822b49
+ 3338  git log
+ 3339  ls 
+ 3340  touch .gitignore
+ 3341  touch ignorar.txt
+ 3342  ls
+ 3343  ls-ltr
+ 3344  ls -lrt
+ 3345  vi .gitignore
+ 3346  git statud
+ 3347  git status
+ 3348  vi .gitignore
+ 3349  git status
+ 3350  vi .gitignore
+ 3351  mkdir node_modules
+ 3352  mkdir node_modules_01
+ 3353  git status
+ 3354  cd node_modules_01
+ 3355  touch hola.txt
+ 3356  cd ..
+ 3357  ls
+ 3358  git status
+ 3359  cd node_modules
+ 3360  touch hola.txt
+ 3361  git staus
+ 3362  git status
+ 3363  ls
+ 3364  cd ..
+ 3365  git status
+ 3366  touch image.jpg
+ 3367  touch imagen.mp4
+ 3368  ls
+ 3369  git git status
+ 3370  git status
+ 3371  vi .gitignore
+ 3372  git status
+ 3373  vi .gitignore
+ 3374  git status
+ 3375  vi .gitignore
+ 3376  git status
+ 3377  git add .
+ 3378  git commit -m "feat se agrego un archivo igignore"
+ 3379  git log 
+ 3380  history

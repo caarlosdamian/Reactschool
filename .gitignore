@@ -1,6 +1,5 @@
 *.jpg
-*.mp4
-*.txt
+*.mp4p
 .mp4
 /node_modules
 ignorar.txt

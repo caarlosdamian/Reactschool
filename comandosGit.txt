@@ -1,0 +1,100 @@
+ 3284  git commit 
+ 3285  git log 
+ 3286  git log
+ 3287  touch tercerArchivo.txt
+ 3288  ls 
+ 3289  git status
+ 3290  rm :
+ 3291  ls
+ 3292  git config --global
+ 3293  git log
+ 3294  git log --pretty=format:"%h - %an, %ar : %s"\n
+ 3295  git log --help
+ 3296  git commit --help
+ 3297  git commit 
+ 3298  git add .
+ 3299  git commit
+ 3300  git status
+ 3301  git commit -m "feat: Se agrego nuevo archivo de configuracion"
+ 3302  git log
+ 3303  touch archivoCuatro.txt
+ 3304  touch archivoCinco.txt
+ 3305  ls
+ 3306  git add .
+ 3307  git commit -m "fix:Se elimino un big en preprod"
+ 3308  touch archivoSeis.txt
+ 3309  git add .
+ 3310  git commit -m "docs: se agrego una descripsion nueva en el Readme"
+ 3311  git log
+ 3312  git checkout 879977abc3d09c536baa702169e28660c90289e7
+ 3313  git log
+ 3314  ls
+ 3315  git checkout master
+ 3316  git log
+ 3317  ls
+ 3318  vi primerArchivo.txt
+ 3319  git add .
+ 3320  git commit -m "feat:se agrego nuevo texto en el archivo uno"
+ 3321  ls
+ 3322  git log 
+ 3323  git revert 826ea242fe5a33541c0a70619ea3ebd232822b49
+ 3324  git log
+ 3325  git reset 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3326  git log
+ 3327  git reset 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3328  git log
+ 3329  git status
+ 3330  git log --oneline
+ 3331  git reset --soft 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3332  git status
+ 3333  git reset -soft 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3334  git reset --hard 318dad15f169da66cb490d5a2fe03936dc368a8b
+ 3335  git status
+ 3336  git log
+ 3337  git reset --hard 826ea242fe5a33541c0a70619ea3ebd232822b49
+ 3338  git log
+ 3339  ls 
+ 3340  touch .gitignore
+ 3341  touch ignorar.txt
+ 3342  ls
+ 3343  ls-ltr
+ 3344  ls -lrt
+ 3345  vi .gitignore
+ 3346  git statud
+ 3347  git status
+ 3348  vi .gitignore
+ 3349  git status
+ 3350  vi .gitignore
+ 3351  mkdir node_modules
+ 3352  mkdir node_modules_01
+ 3353  git status
+ 3354  cd node_modules_01
+ 3355  touch hola.txt
+ 3356  cd ..
+ 3357  ls
+ 3358  git status
+ 3359  cd node_modules
+ 3360  touch hola.txt
+ 3361  git staus
+ 3362  git status
+ 3363  ls
+ 3364  cd ..
+ 3365  git status
+ 3366  touch image.jpg
+ 3367  touch imagen.mp4
+ 3368  ls
+ 3369  git git status
+ 3370  git status
+ 3371  vi .gitignore
+ 3372  git status
+ 3373  vi .gitignore
+ 3374  git status
+ 3375  vi .gitignore
+ 3376  git status
+ 3377  git add .
+ 3378  git commit -m "feat se agrego un archivo igignore"
+ 3379  git log 
+ 3380  history
+ 3381  history > comandos.txt
+ 3382  ls
+ 3383  cat comandos.txt
